@@ -8,6 +8,14 @@
   "states": {
     "Saarland": [
       {
+        "hintergrund": "Dies ist ein Test",
+        "bezeichnung": "Gültig für ein Test?",
+        "maximalpunkte": 10,
+        "erreichte_punkte": 7,
+        "erklaerung": "Bliblug.",
+        "kategorie": "Lobbyregister"
+      },
+      {
         "hintergrund": "Die Regelung sollte sowohl für Abgeordnete im Parlament als auch für die Regierung (Ministerien) gelten.",
         "bezeichnung": "Gültig für Parlament & Regierung?",
         "maximalpunkte": 3,
