@@ -8,11 +8,11 @@
   "states": {
     "Baden-Württemberg": [
       {
-        "hintergrund": "Gibt es eine verbindliche Regelung sowohl f\u00FCr Abgeordnete im Parlament als auch f\u00FCr die Regierung (Ministerien)?",
-        "bezeichnung": "G\u00FCltig f\u00FCr Parlament & Regierung?",
+        "hintergrund": "TEST Gibt es eine verbindliche Regelung sowohl f\u00FCr Abgeordnete im Parlament als auch f\u00FCr die Regierung (Ministerien)?",
+        "bezeichnung": " TEST G\u00FCltig f\u00FCr Parlament & Regierung?",
         "maximalpunkte": 6,
         "erreichte_punkte": 3,
-        "erklaerung": "Es sind neben dem Parlament nur die Mitglieder der Landesregierung erfasst. Abteilungsleitungen und abw\u00E4rts fallen nicht darunter \u2013 damit ist der wesentliche Teil der Lobbyarbeit nicht erfasst.",
+        "erklaerung": "TEST Es sind neben dem Parlament nur die Mitglieder der Landesregierung erfasst. Abteilungsleitungen und abw\u00E4rts fallen nicht darunter \u2013 damit ist der wesentliche Teil der Lobbyarbeit nicht erfasst.",
         "kategorie": "Lobbyregister"
       },
       {
