@@ -1,12 +1,12 @@
 {
   "categories": {
     "Lobbyregister": "Unter einem Lobbyregister versteht man eine \u00F6ffentliche Liste von allen Lobbyist:innen, welche als Mitglied bestimmter Gruppen wie etwa Unternehmen oder in deren Auftrag auf den politischen Prozess in schriftlicher oder sonstiger Weise Einfluss nehmen wollen.",
-    "Legislativer Fu\u00DFabdruck": "Manchmal auch exekutiver Fu\u00DFabdruck genannt. Inhaltliche und chronologische Aufzeichnung der Entstehung einer Gesetzesvorlage sowie Nennung der an der Entstehung Beteiligten und ihrer Beitr\u00E4ge. So soll transparent werden, welche Interessen sich m\u00F6glicherweise in Gesetzesvorhaben widerspiegeln.",
+    "Legislativer Fußabdruck": "Manchmal auch exekutiver Fu\u00DFabdruck genannt. Inhaltliche und chronologische Aufzeichnung der Entstehung einer Gesetzesvorlage sowie Nennung der an der Entstehung Beteiligten und ihrer Beitr\u00E4ge. So soll transparent werden, welche Interessen sich m\u00F6glicherweise in Gesetzesvorhaben widerspiegeln.",
     "Karenzzeit": "Eine \u201EWartezeit, Sperrfrist, vor deren Ablauf eine bestimmte Erlaubnis nicht erteilt wird\u201C. In der Politik bedeutet eine Karenzzeit, dass aus ihrem Amt ausgeschiedene Regierungsmitglieder und SpitzenbeamtInnen bis zu einem Wechsel in die Privatwirtschaft eine bestimmte Zeit warten m\u00FCssen.",
     "Verhaltensregeln": "Verhaltensregeln listen eine Reihe von Anzeigepflichten und Verbotstatbest\u00E4nden auf und enthalten meist auch Sanktionen. Sie stehen in einem Spannungsfeld zum Grundsatz der freien Mandatsaus\u00FCbung und dienen der Sicherung der Integrit\u00E4t des Handelns der Volksvertreter."
   },
   "states": {
-    "Baden-W\u00FCrttemberg": [
+    "Baden-Württemberg": [
       {
         "hintergrund": "Gibt es eine verbindliche Regelung sowohl f\u00FCr Abgeordnete im Parlament als auch f\u00FCr die Regierung (Ministerien)?",
         "bezeichnung": "G\u00FCltig f\u00FCr Parlament & Regierung?",
