@@ -376,88 +376,86 @@
         "erreichte_punkte": 0,
         "erklaerung": "nein",
         "kategorie": "Karenzzeit"
-      }
-    ],
-    "Baden-W\u00FCrttemberg": [
+      },
       {
         "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte, berufliche T\u00E4tigkeiten, sowie T\u00E4tigkeit als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
-        "bezeichnung": "G\u00FCltig f\u00FCr Parlament & Regierung?",
+        "bezeichnung": "Anzeigepflicht vor Mandats\u00FCbernahme?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "Ja",
-        "kategorie": "Lobbyregister"
+        "kategorie": "Verhaltensregeln"
       },
       {
         "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
-        "bezeichnung": "Registrierung f\u00FCr alle verpflichtend?",
+        "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "Ja\nAnzeige bestehender Unternehmensbeteiligung bereits ab 3 % mit Angabe Aktienoptionen",
-        "kategorie": "Lobbyregister"
+        "kategorie": "Verhaltensregeln"
       },
       {
         "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder EURO-genau)",
-        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen?",
+        "bezeichnung": "Ver\u00F6ffentlichung der Nebeneink\u00FCnfte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "Euro-genaue Angabe\n(vorbehaltlich Wahrung Gesch\u00E4ftsgeheimnis)",
-        "kategorie": "Lobbyregister"
+        "kategorie": "Verhaltensregeln"
       },
       {
         "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
-        "bezeichnung": "Benannte Auftraggeber bei Anw\u00E4lten & Agenturen?",
+        "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
         "erklaerung": "Nach Ma\u00DFgabe des \u00A7 25 ParteienG",
-        "kategorie": "Lobbyregister"
+        "kategorie": "Verhaltensregeln"
       },
       {
         "hintergrund": "Ist die Annahme von Spenden (Direktspenden) an Abgeordnete verboten?",
-        "bezeichnung": "Angabe von Geldmitteln und Personaleinsatz?",
+        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "ja",
-        "kategorie": "Lobbyregister"
+        "kategorie": "Verhaltensregeln"
       },
       {
         "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
-        "bezeichnung": "Dokumentation stattgefundener Besuche?",
+        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "Ordnungsgeld bis \u00BD-j\u00E4hrliche Abgeordnetenbez\u00FCgeAller Voraussicht nach (Ausf\u00FChrungsvorschriften noch nicht erlassen!) mit Ver\u00F6ffentlichung",
-        "kategorie": "Lobbyregister"
+        "kategorie": "Verhaltensregeln"
       },
       {
         "hintergrund": "Werden die von den Abgeordneten gemachten Angaben im Internet oder Handbuch ver\u00F6ffentlicht?",
-        "bezeichnung": "Lobby-Eingaben \u00F6ffentlich zug\u00E4nglich?",
+        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
         "erklaerung": "LTag Internet",
-        "kategorie": "Lobbyregister"
+        "kategorie": "Verhaltensregeln"
       },
       {
         "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
-        "bezeichnung": "Verhaltenskodex f\u00FCr Lobbyisten?",
+        "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "Ausschussmitglied muss Interessenverkn\u00FCpfung offenlegen, es sei denn diese sind bereits aus dem Abgeordnetenprofil ersichtlich ",
-        "kategorie": "Lobbyregister"
+        "kategorie": "Verhaltensregeln"
       },
       {
         "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
-        "bezeichnung": "Unabh\u00E4ngiger\u00A0Lobbybeauftragter?",
+        "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "Ja, sogar mittelbar \u00FCber Unternehmensbeteiligung ausge\u00FCbte T\u00E4tigkeit erfasst",
-        "kategorie": "Lobbyregister"
+        "kategorie": "Verhaltensregeln"
       },
       {
         "hintergrund": "Gibt es eine Pflicht zur Angabe des zeitlichen Umfangs ausge\u00FCbter Nebent\u00E4tigkeiten?",
-        "bezeichnung": "G\u00FCltig f\u00FCr Parlament & Regierung?",
+        "bezeichnung": "Anzeigepflicht des zeitlichen Umfangs einer Nebent\u00E4tigkeit?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
         "erklaerung": "Nein",
-        "kategorie": "Legislativer Fu\u00DFabdruck"
+        "kategorie": "Verhaltensregeln"
       }
     ],
     "Berlin": [
