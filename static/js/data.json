@@ -160,7 +160,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine verbindliche Regelung f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (Beratung, Vortr\u00E4ge, Gutachten etc.; Schwellenwerte beachten!)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 2,
@@ -176,7 +176,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht\n",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -192,7 +192,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Folgen Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?\n\nVer\u00F6ffentlichung als LT-Drucksache\n\nAhndung durch unabh\u00E4ngiges Gremium\n",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
         "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 1,
@@ -208,7 +208,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden? ",
+        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
         "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 1,
@@ -216,11 +216,11 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
-        "erklaerung": "b",
+        "erklaerung": "Nein",
         "kategorie": "Verhaltensregeln"
       },
       {
@@ -228,7 +228,7 @@
         "bezeichnung": "Anzeigepflicht des zeitlichen Umfangs einer Nebent\u00E4tigkeit?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
-        "erklaerung": "c",
+        "erklaerung": "Nein",
         "kategorie": "Verhaltensregeln"
       }
     ],
@@ -309,8 +309,8 @@
         "hintergrund": "Gilt die Regelung sowohl f\u00FCr Abgeordnete im Parlament, als auch f\u00FCr die Regierung (Ministerien)?",
         "bezeichnung": "G\u00FCltig f\u00FCr Parlament & Regierung?",
         "maximalpunkte": 12,
-        "erreichte_punkte": 8,
-        "erklaerung": "Es gibt eine Regelung f\u00FCr die Regierung.",
+        "erreichte_punkte": 12,
+        "erklaerung": "Es gibt eine Regelung f\u00FCr Regierung und Parlament.",
         "kategorie": "Legislativer Fu\u00DFabdruck"
       },
       {
@@ -376,86 +376,88 @@
         "erreichte_punkte": 0,
         "erklaerung": "nein",
         "kategorie": "Karenzzeit"
-      },
+      }
+    ],
+    "Baden-W\u00FCrttemberg": [
       {
         "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte, berufliche T\u00E4tigkeiten, sowie T\u00E4tigkeit als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
-        "bezeichnung": "Anzeigepflicht vor Mandats\u00FCbernahme?",
+        "bezeichnung": "G\u00FCltig f\u00FCr Parlament & Regierung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "Ja",
-        "kategorie": "Verhaltensregeln"
+        "kategorie": "Lobbyregister"
       },
       {
-        "hintergrund": "Gibt es eine verbindliche Regelung f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (Beratung, Vortr\u00E4ge, Gutachten etc.; Schwellenwerte beachten!)?",
-        "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
+        "bezeichnung": "Registrierung f\u00FCr alle verpflichtend?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "Ja\nAnzeige bestehender Unternehmensbeteiligung bereits ab 3 % mit Angabe Aktienoptionen",
-        "kategorie": "Verhaltensregeln"
+        "kategorie": "Lobbyregister"
       },
       {
         "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder EURO-genau)",
-        "bezeichnung": "Ver\u00F6ffentlichung der Nebeneink\u00FCnfte?",
+        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "Euro-genaue Angabe\n(vorbehaltlich Wahrung Gesch\u00E4ftsgeheimnis)",
-        "kategorie": "Verhaltensregeln"
+        "kategorie": "Lobbyregister"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht\n",
-        "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
+        "bezeichnung": "Benannte Auftraggeber bei Anw\u00E4lten & Agenturen?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
         "erklaerung": "Nach Ma\u00DFgabe des \u00A7 25 ParteienG",
-        "kategorie": "Verhaltensregeln"
+        "kategorie": "Lobbyregister"
       },
       {
         "hintergrund": "Ist die Annahme von Spenden (Direktspenden) an Abgeordnete verboten?",
-        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
+        "bezeichnung": "Angabe von Geldmitteln und Personaleinsatz?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "ja",
-        "kategorie": "Verhaltensregeln"
+        "kategorie": "Lobbyregister"
       },
       {
-        "hintergrund": "Folgen Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?\n\nVer\u00F6ffentlichung als LT-Drucksache\n\nAhndung durch unabh\u00E4ngiges Gremium\n",
-        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
+        "bezeichnung": "Dokumentation stattgefundener Besuche?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "Ordnungsgeld bis \u00BD-j\u00E4hrliche Abgeordnetenbez\u00FCgeAller Voraussicht nach (Ausf\u00FChrungsvorschriften noch nicht erlassen!) mit Ver\u00F6ffentlichung",
-        "kategorie": "Verhaltensregeln"
+        "kategorie": "Lobbyregister"
       },
       {
         "hintergrund": "Werden die von den Abgeordneten gemachten Angaben im Internet oder Handbuch ver\u00F6ffentlicht?",
-        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
+        "bezeichnung": "Lobby-Eingaben \u00F6ffentlich zug\u00E4nglich?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
         "erklaerung": "LTag Internet",
-        "kategorie": "Verhaltensregeln"
+        "kategorie": "Lobbyregister"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden? ",
-        "bezeichnung": "Verbot von Direktspenden?",
+        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
+        "bezeichnung": "Verhaltenskodex f\u00FCr Lobbyisten?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "Ausschussmitglied muss Interessenverkn\u00FCpfung offenlegen, es sei denn diese sind bereits aus dem Abgeordnetenprofil ersichtlich ",
-        "kategorie": "Verhaltensregeln"
+        "kategorie": "Lobbyregister"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
-        "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "bezeichnung": "Unabh\u00E4ngiger\u00A0Lobbybeauftragter?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "Ja, sogar mittelbar \u00FCber Unternehmensbeteiligung ausge\u00FCbte T\u00E4tigkeit erfasst",
-        "kategorie": "Verhaltensregeln"
+        "kategorie": "Lobbyregister"
       },
       {
         "hintergrund": "Gibt es eine Pflicht zur Angabe des zeitlichen Umfangs ausge\u00FCbter Nebent\u00E4tigkeiten?",
-        "bezeichnung": "Anzeigepflicht des zeitlichen Umfangs einer Nebent\u00E4tigkeit?",
+        "bezeichnung": "G\u00FCltig f\u00FCr Parlament & Regierung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
         "erklaerung": "Nein",
-        "kategorie": "Verhaltensregeln"
+        "kategorie": "Legislativer Fu\u00DFabdruck"
       }
     ],
     "Berlin": [
@@ -612,7 +614,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine verbindliche Regelung f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (Beratung, Vortr\u00E4ge, Gutachten etc.; Schwellenwerte beachten!)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -628,7 +630,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht\n",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -644,7 +646,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Folgen Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?\n\nVer\u00F6ffentlichung als LT-Drucksache\n\nAhndung durch unabh\u00E4ngiges Gremium\n",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
         "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -660,7 +662,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden? ",
+        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
         "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -668,7 +670,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -689,7 +691,7 @@
         "hintergrund": "Gibt es eine verbindliche Regelung sowohl f\u00FCr Abgeordnete im Parlament als auch f\u00FCr die Regierung (Ministerien)?",
         "bezeichnung": "G\u00FCltig f\u00FCr Parlament & Regierung?",
         "maximalpunkte": 9,
-        "erreichte_punkte": 9,
+        "erreichte_punkte": 4,
         "erklaerung": "Ja, das \"Lobbyregister\" gilt f\u00FCr Parlament und Regierung, die Eintragung ist jedoch nicht verpflichtend zur Kontaktaufnahme und umfasst nicht die wesentlichen Informationen.",
         "kategorie": "Lobbyregister"
       },
@@ -838,7 +840,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine verbindliche Regelung f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (Beratung, Vortr\u00E4ge, Gutachten etc.; Schwellenwerte beachten!)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
@@ -854,7 +856,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht\n",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -870,7 +872,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Folgen Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?\n\nVer\u00F6ffentlichung als LT-Drucksache\n\nAhndung durch unabh\u00E4ngiges Gremium\n",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
         "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -886,7 +888,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden? ",
+        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
         "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -894,7 +896,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -1051,8 +1053,8 @@
         "hintergrund": "Gibt es verbindliche Kriterien f\u00FCr einen Beschluss \u00FCber die Zul\u00E4ssigkeit einer anzeigepflichtigen Besch\u00E4ftigung w\u00E4hrend der Karenzzeit?  (Definition Interessenkonflikt, Gr\u00FCnde aus denen eine Erwerbst\u00E4tigkeit untersagt werden kann etc.)",
         "bezeichnung": "Kriterien f\u00FCr Beschluss einer Karenzzeit?",
         "maximalpunkte": 6,
-        "erreichte_punkte": 1,
-        "erklaerung": "Keine Sanktionen. Nur Mitteilung an B\u00FCrgerschaft, ob Versto\u00DF vorliegt",
+        "erreichte_punkte": 0,
+        "erklaerung": "nein",
         "kategorie": "Karenzzeit"
       },
       {
@@ -1064,7 +1066,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine verbindliche Regelung f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (Beratung, Vortr\u00E4ge, Gutachten etc.; Schwellenwerte beachten!)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -1080,7 +1082,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht\n",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 1,
@@ -1096,7 +1098,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Folgen Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?\n\nVer\u00F6ffentlichung als LT-Drucksache\n\nAhndung durch unabh\u00E4ngiges Gremium\n",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
         "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -1112,7 +1114,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden? ",
+        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
         "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -1120,7 +1122,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -1290,7 +1292,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine verbindliche Regelung f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (Beratung, Vortr\u00E4ge, Gutachten etc.; Schwellenwerte beachten!)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -1306,7 +1308,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht\n",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -1322,7 +1324,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Folgen Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?\n\nVer\u00F6ffentlichung als LT-Drucksache\n\nAhndung durch unabh\u00E4ngiges Gremium\n",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
         "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 1,
@@ -1338,7 +1340,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden? ",
+        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
         "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -1346,7 +1348,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -1480,7 +1482,7 @@
         "bezeichnung": "H\u00F6chstdauer der Karenzzeit?",
         "maximalpunkte": 20,
         "erreichte_punkte": 10,
-        "erklaerung": "18 Monate",
+        "erklaerung": "18 Monate - die maximale Dauer h\u00E4ngt allerdings von der L\u00E4nge der individuellen \u00DCbergangsgelder ab und kann damit teilweise auf nur 6 Monate beschr\u00E4nkt sein",
         "kategorie": "Karenzzeit"
       },
       {
@@ -1516,7 +1518,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine verbindliche Regelung f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (Beratung, Vortr\u00E4ge, Gutachten etc.; Schwellenwerte beachten!)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
@@ -1532,7 +1534,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht\n",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -1548,7 +1550,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Folgen Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?\n\nVer\u00F6ffentlichung als LT-Drucksache\n\nAhndung durch unabh\u00E4ngiges Gremium\n",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
         "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -1564,7 +1566,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden? ",
+        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
         "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 1,
@@ -1572,7 +1574,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -1713,8 +1715,8 @@
         "hintergrund": "Gibt es ein beratendes Gremium oder eine Instanz, die \u00FCber einen m\u00F6glichen Interessenkonflikt ber\u00E4t und muss dessen Empfehlung ver\u00F6ffentlicht werden?",
         "bezeichnung": "Ver\u00F6ffentlichung der Empfehlung eines beratenden Gremiums?",
         "maximalpunkte": 12,
-        "erreichte_punkte": 2,
-        "erklaerung": "Die Landesregierung trifft ihre Entscheidung auf Empfehlung eines aus drei Mitgliedern bestehenden, beratenden Gremiums. Das beratende Gremium hat seine Empfehlung zu begr\u00FCnden. Es gibt seine Empfehlung nicht \u00F6ffentlich ab.",
+        "erreichte_punkte": 12,
+        "erklaerung": "Die Landesregierung trifft ihre Entscheidung auf Empfehlung eines aus drei Mitgliedern bestehenden, beratenden Gremiums. Das beratende Gremium hat seine Empfehlung zu begr\u00FCnden.",
         "kategorie": "Karenzzeit"
       },
       {
@@ -1742,7 +1744,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine verbindliche Regelung f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (Beratung, Vortr\u00E4ge, Gutachten etc.; Schwellenwerte beachten!)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -1758,7 +1760,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht\n",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -1774,7 +1776,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Folgen Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?\n\nVer\u00F6ffentlichung als LT-Drucksache\n\nAhndung durch unabh\u00E4ngiges Gremium\n",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
         "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -1790,7 +1792,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden? ",
+        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
         "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -1798,7 +1800,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -1968,7 +1970,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine verbindliche Regelung f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (Beratung, Vortr\u00E4ge, Gutachten etc.; Schwellenwerte beachten!)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
@@ -1984,7 +1986,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht\n",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -2000,7 +2002,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Folgen Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?\n\nVer\u00F6ffentlichung als LT-Drucksache\n\nAhndung durch unabh\u00E4ngiges Gremium\n",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
         "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 2,
@@ -2016,7 +2018,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden? ",
+        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
         "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
@@ -2024,7 +2026,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -2165,8 +2167,8 @@
         "hintergrund": "Gibt es ein beratendes Gremium oder eine Instanz, die \u00FCber einen m\u00F6glichen Interessenkonflikt ber\u00E4t und muss dessen Empfehlung ver\u00F6ffentlicht werden?",
         "bezeichnung": "Ver\u00F6ffentlichung der Empfehlung eines beratenden Gremiums?",
         "maximalpunkte": 12,
-        "erreichte_punkte": 6,
-        "erklaerung": "Entscheidung durch Landesregierung auf Empfehlung eines Gremiums (\"Ministerehrenkommission\u201D).Die Empfehlung ist nicht-\u00F6ffentlich.",
+        "erreichte_punkte": 12,
+        "erklaerung": "Entscheidung durch Landesregierung auf Empfehlung eines Gremiums (\"Ministerehrenkommission\u201D).",
         "kategorie": "Karenzzeit"
       },
       {
@@ -2194,7 +2196,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine verbindliche Regelung f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (Beratung, Vortr\u00E4ge, Gutachten etc.; Schwellenwerte beachten!)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -2210,7 +2212,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht\n",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -2226,7 +2228,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Folgen Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?\n\nVer\u00F6ffentlichung als LT-Drucksache\n\nAhndung durch unabh\u00E4ngiges Gremium\n",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
         "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -2242,7 +2244,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden? ",
+        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
         "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
@@ -2250,7 +2252,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -2271,7 +2273,7 @@
         "hintergrund": "Gibt es eine verbindliche Regelung sowohl f\u00FCr Abgeordnete im Parlament als auch f\u00FCr die Regierung (Ministerien)?",
         "bezeichnung": "G\u00FCltig f\u00FCr Parlament & Regierung?",
         "maximalpunkte": 9,
-        "erreichte_punkte": 8,
+        "erreichte_punkte": 4,
         "erklaerung": "Ja, das \"Lobbyregister\" gilt f\u00FCr Parlament und Regierung, die Eintragung ist jedoch nicht verpflichtend zur Kontaktaufnahme und umfasst nicht die wesentlichen Informationen.",
         "kategorie": "Lobbyregister"
       },
@@ -2420,7 +2422,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine verbindliche Regelung f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (Beratung, Vortr\u00E4ge, Gutachten etc.; Schwellenwerte beachten!)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -2436,7 +2438,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht\n",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 2,
@@ -2452,7 +2454,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Folgen Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?\n\nVer\u00F6ffentlichung als LT-Drucksache\n\nAhndung durch unabh\u00E4ngiges Gremium\n",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
         "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -2468,7 +2470,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden? ",
+        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
         "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 1,
@@ -2476,7 +2478,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -2646,7 +2648,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine verbindliche Regelung f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (Beratung, Vortr\u00E4ge, Gutachten etc.; Schwellenwerte beachten!)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -2662,7 +2664,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht\n",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -2678,7 +2680,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Folgen Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?\n\nVer\u00F6ffentlichung als LT-Drucksache\n\nAhndung durch unabh\u00E4ngiges Gremium\n",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
         "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -2694,7 +2696,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden? ",
+        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
         "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
@@ -2702,7 +2704,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -2872,7 +2874,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine verbindliche Regelung f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (Beratung, Vortr\u00E4ge, Gutachten etc.; Schwellenwerte beachten!)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -2888,7 +2890,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht\n",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -2904,7 +2906,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Folgen Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?\n\nVer\u00F6ffentlichung als LT-Drucksache\n\nAhndung durch unabh\u00E4ngiges Gremium\n",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
         "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 2,
@@ -2920,7 +2922,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden? ",
+        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
         "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -2928,7 +2930,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -2949,7 +2951,7 @@
         "hintergrund": "Gibt es eine verbindliche Regelung sowohl f\u00FCr Abgeordnete im Parlament als auch f\u00FCr die Regierung (Ministerien)?",
         "bezeichnung": "G\u00FCltig f\u00FCr Parlament & Regierung?",
         "maximalpunkte": 9,
-        "erreichte_punkte": 8,
+        "erreichte_punkte": 4,
         "erklaerung": "Ja, das \"Lobbyregister\" gilt f\u00FCr Parlament und Regierung, die Eintragung ist jedoch nicht verpflichtend zur Kontaktaufnahme und umfasst nicht die wesentlichen Informationen.",
         "kategorie": "Lobbyregister"
       },
@@ -3098,7 +3100,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine verbindliche Regelung f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (Beratung, Vortr\u00E4ge, Gutachten etc.; Schwellenwerte beachten!)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -3114,7 +3116,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht\n",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 2,
@@ -3130,7 +3132,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Folgen Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?\n\nVer\u00F6ffentlichung als LT-Drucksache\n\nAhndung durch unabh\u00E4ngiges Gremium\n",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
         "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -3146,7 +3148,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden? ",
+        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
         "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
@@ -3154,7 +3156,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -3324,7 +3326,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine verbindliche Regelung f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (Beratung, Vortr\u00E4ge, Gutachten etc.; Schwellenwerte beachten!)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -3340,7 +3342,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht\n",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -3356,7 +3358,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Folgen Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?\n\nVer\u00F6ffentlichung als LT-Drucksache\n\nAhndung durch unabh\u00E4ngiges Gremium\n",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
         "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -3372,7 +3374,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden? ",
+        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
         "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
@@ -3380,7 +3382,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -3550,7 +3552,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine verbindliche Regelung f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (Beratung, Vortr\u00E4ge, Gutachten etc.; Schwellenwerte beachten!)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -3566,7 +3568,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht\n",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -3582,7 +3584,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Folgen Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?\n\nVer\u00F6ffentlichung als LT-Drucksache\n\nAhndung durch unabh\u00E4ngiges Gremium\n",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
         "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -3598,7 +3600,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden? ",
+        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
         "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 1,
@@ -3606,7 +3608,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -3747,8 +3749,8 @@
         "hintergrund": "Gibt es ein beratendes Gremium oder eine Instanz, die \u00FCber einen m\u00F6glichen Interessenkonflikt ber\u00E4t und muss dessen Empfehlung ver\u00F6ffentlicht werden?",
         "bezeichnung": "Ver\u00F6ffentlichung der Empfehlung eines beratenden Gremiums?",
         "maximalpunkte": 12,
-        "erreichte_punkte": 6,
-        "erklaerung": "Begr\u00FCndete, nicht \u00F6ffentlich abgegebene Empfehlung eines aus drei Mitgliedern bestehenden beratenden Gremiums",
+        "erreichte_punkte": 12,
+        "erklaerung": "Begr\u00FCndete, Empfehlung eines aus drei Mitgliedern bestehenden beratenden Gremiums",
         "kategorie": "Karenzzeit"
       },
       {
@@ -3776,7 +3778,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine verbindliche Regelung f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (Beratung, Vortr\u00E4ge, Gutachten etc.; Schwellenwerte beachten!)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -3792,7 +3794,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht\n",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -3808,7 +3810,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Folgen Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?\n\nVer\u00F6ffentlichung als LT-Drucksache\n\nAhndung durch unabh\u00E4ngiges Gremium\n",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
         "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -3824,7 +3826,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden? ",
+        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
         "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -3832,7 +3834,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
