@@ -13,7 +13,7 @@ layout: state
 status: complete
 ---
 
-In Berlin existiert keine Regelung für ein Lobbyregister. Im Koalitionsvertrag von 2016 ist eine Regelung vereinbart.
+In Berlin existiert keine Regelung für ein Lobbyregister. Das 2021 verabschiedete Lobbyregistergesetz stellt einen legislativen Fußabdruck vor, jedoch kein Lobbyregister.
 
 Berlin hat 2021 ein Lobbyregistergesetz verabschiedet, dessen Regelungen jedoch eigentlich ein [legislativen Fußabdruck](https://www.parlament-berlin.de/dokumente/lobbyregister) darstellt. Das am 4. November 2021 in Kraft getretende Gesetz ist gültig für das Parlament und die Regierung und erfasst alle schriftlichen Eingaben, die anschließend veröffentlicht werden.
 
