@@ -15,7 +15,7 @@ status: complete
 
 Das [“Transparenzregister”](https://www.landtag-bw.de/files/live/sites/LTBW/files/dokumente/WP16/Drucksachen/9000/16_9883_D.pdf) des Landes erfüllt die meisten Ansprüche an ein Lobbyregister und wurde 2021 geschaffen. Ein zentraler Kritikpunkt ist allerdings, dass der tatsächliche Umfang der Lobbytätigkeit nicht offen gelegt wird.
 
-Das [“Transparenzregister”](https://www.landtag-bw.de/files/live/sites/LTBW/files/dokumente/WP16/Drucksachen/9000/16_9883_D.pdf) des Landes sieht einen legislativen Fußabdruck für die Landesregierung vor. Die genaue Ausgestaltung obliegt der Landesregierung und ist bislang ungeklärt. 
+Das 2021 eingeführt [“Transparenzregister”](https://www.landtag-bw.de/files/live/sites/LTBW/files/dokumente/WP16/Drucksachen/9000/16_9883_D.pdf) des Landes sieht einen legislativen Fußabdruck für die Landesregierung vor. Die neue Regelung gilt für die Regierung/Ministerien und umschließt explizit die Erarbeitungsphase von Gesetzen. 
 
 In Baden-Württemberg existiert keine Karenzzeitregelung für Minister und Staatssekretäre. Die grün-schwarze Landesregierung prüft die Einführung von Karenzzeiten.
 
