@@ -15,7 +15,7 @@ status: complete
 
 In Nordrhein-Westfalen existiert keine Regelung für ein Lobbyregister.
 
-In Nordrhein-Westfalen existiert keine Regelung für einen legislativen Fußabdruck.
+In Nordrhein-Westfalen existiert keine Regelung für einen legislativen Fußabdruck. Das Parlament stellt jedoch die Stellungnahmen formaler Anhörungen online.
 
 Unter rot-grüner Führung wurde im Jahr 2016 eine 12-monatige Karrenzzeit unter § 4b-c des [Landesministergesetzes](https://recht.nrw.de/lmi/owa/br_bes_text?sg=0&menu=1&bes_id=4630&aufgehoben=N&anw_nr=2) eingeführt.
 
