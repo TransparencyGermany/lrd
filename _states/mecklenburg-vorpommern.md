@@ -15,8 +15,8 @@ status: complete
 
 In Mecklenburg-Vorpommern existiert keine Regelung für ein Lobbyregister.
 
-In Mecklenburg-Vorpommern existiert keine Regelung für einen legislativen Fußabdruck.
+In Mecklenburg-Vorpommern existiert keine Regelung für einen legislativen Fußabdruck. Das Land veröffentlicht jedoch alle schriftlichen Stellungnahmen.
 
-Die Landesregierung hat bereits im Jahr 2019 ein Karenzzeitgesetz angekündigt. Allerdings hat die Covid19-Pandemie zu einer Verzögerung und Depriorisierung eines entsprechenden Gesetzes beigetragen. Laut der SPD-Fraktion solle zeitnah ein entsprechender Gesetzentwurf vorgelegt werden.
+Die Landesregierung hat 2021 Karenzzeitregelungen verabschiedet. Die Karenzzeit ist dabei jedoch nur auf 12 Monate begrenzt, auch sind bei Verstößen keine Sanktionen vorgesehen.
 
 Diese [Verhaltensregeln](https://www.landtag-mv.de/fileadmin/Publikationen_PDF/Geschaeftsordnung_WP6.pdf) genügen nur bezüglich der Pflicht zur Offenlegung einer Interessenverknüpfung bei der Ausschussarbeit den Anforderungen. Demgegenüber gibt es keine Pflicht die Höhe der erzielten Nebeneinkünfte anzuzeigen sowie keine wirksame Sanktionsmöglichkeit bei Pflichtverstößen (lediglich Mitteilung des Prüfungsergebnisses an den Landtag).
