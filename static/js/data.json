@@ -152,7 +152,7 @@
         "kategorie": "Karenzzeit"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte, berufliche T\u00E4tigkeiten, sowie T\u00E4tigkeit als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte berufliche T\u00E4tigkeiten sowie T\u00E4tigkeiten als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
         "bezeichnung": "Anzeigepflicht vor Mandats\u00FCbernahme?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -160,7 +160,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten etc.); Unternehmensbeteiligungen? Aktienoptionen? Schwellenwerte beachten!",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 2,
@@ -168,7 +168,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder EURO-genau)",
+        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder Euro-genau)",
         "bezeichnung": "Ver\u00F6ffentlichung der Nebeneink\u00FCnfte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -176,7 +176,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit? Ab welcher Betragsh\u00F6he gilt diese? Ver\u00F6ffentlichung?\n",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -185,15 +185,15 @@
       },
       {
         "hintergrund": "Ist die Annahme von Spenden (Direktspenden) an Abgeordnete verboten?",
-        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
+        "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
         "erklaerung": "Ja\n (Einzelspende > \u20AC 1534; in einem Jahr > \u20AC10.225) mit Ver\u00F6ffentlichungspflicht",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
-        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?   Ver\u00F6ffentlichung als LT-Drucksache?",
+        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
         "maximalpunkte": 5,
         "erreichte_punkte": 1,
         "erklaerung": "Keine Sanktionen (nur Mitteilung des Pr\u00FCfungsergebnisses an die Fraktionen, ob ein Versto\u00DF vorliegt).",
@@ -201,22 +201,22 @@
       },
       {
         "hintergrund": "Werden die von den Abgeordneten gemachten Angaben im Internet oder Handbuch ver\u00F6ffentlicht?",
-        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
+        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "LTag-Internet",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
-        "bezeichnung": "Verbot von Direktspenden?",
+        "hintergrund": "Muss eine Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit offengelegt werden? ",
+        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 1,
         "erklaerung": "Ausschussmitglied muss Interessenverkn\u00FCpfung offenlegen, es sei denn diese bereits aus Abgeordnetenprofil ersichtlich ",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -378,7 +378,7 @@
         "kategorie": "Karenzzeit"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte, berufliche T\u00E4tigkeiten, sowie T\u00E4tigkeit als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte berufliche T\u00E4tigkeiten sowie T\u00E4tigkeiten als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
         "bezeichnung": "Anzeigepflicht vor Mandats\u00FCbernahme?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -386,7 +386,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten etc.); Unternehmensbeteiligungen? Aktienoptionen? Schwellenwerte beachten!",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -394,7 +394,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder EURO-genau)",
+        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder Euro-genau)",
         "bezeichnung": "Ver\u00F6ffentlichung der Nebeneink\u00FCnfte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -402,7 +402,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit? Ab welcher Betragsh\u00F6he gilt diese? Ver\u00F6ffentlichung?\n",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
@@ -411,15 +411,15 @@
       },
       {
         "hintergrund": "Ist die Annahme von Spenden (Direktspenden) an Abgeordnete verboten?",
-        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
+        "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "ja",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
-        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?   Ver\u00F6ffentlichung als LT-Drucksache?",
+        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "Ordnungsgeld bis \u00BD-j\u00E4hrliche Abgeordnetenbez\u00FCgeAller Voraussicht nach (Ausf\u00FChrungsvorschriften noch nicht erlassen!) mit Ver\u00F6ffentlichung",
@@ -427,22 +427,22 @@
       },
       {
         "hintergrund": "Werden die von den Abgeordneten gemachten Angaben im Internet oder Handbuch ver\u00F6ffentlicht?",
-        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
+        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
         "erklaerung": "LTag Internet",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
-        "bezeichnung": "Verbot von Direktspenden?",
+        "hintergrund": "Muss eine Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit offengelegt werden? ",
+        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "Ausschussmitglied muss Interessenverkn\u00FCpfung offenlegen, es sei denn diese sind bereits aus dem Abgeordnetenprofil ersichtlich ",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -604,7 +604,7 @@
         "kategorie": "Karenzzeit"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte, berufliche T\u00E4tigkeiten, sowie T\u00E4tigkeit als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte berufliche T\u00E4tigkeiten sowie T\u00E4tigkeiten als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
         "bezeichnung": "Anzeigepflicht vor Mandats\u00FCbernahme?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
@@ -612,7 +612,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten etc.); Unternehmensbeteiligungen? Aktienoptionen? Schwellenwerte beachten!",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -620,7 +620,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder EURO-genau)",
+        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder Euro-genau)",
         "bezeichnung": "Ver\u00F6ffentlichung der Nebeneink\u00FCnfte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 2,
@@ -628,7 +628,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit? Ab welcher Betragsh\u00F6he gilt diese? Ver\u00F6ffentlichung?\n",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -637,15 +637,15 @@
       },
       {
         "hintergrund": "Ist die Annahme von Spenden (Direktspenden) an Abgeordnete verboten?",
-        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
+        "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 1,
         "erklaerung": "Nur \u00DCberpr\u00FCfung durch Pr\u00E4sidium, ob Versto\u00DF vorliegt. Ergebnis wird den Fraktionen mitgeteilt, es sei denn das \u00F6ffentl. Interesse erfordert dies nicht",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
-        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?   Ver\u00F6ffentlichung als LT-Drucksache?",
+        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "Handbuch + Abg.-Haus Internet",
@@ -653,22 +653,22 @@
       },
       {
         "hintergrund": "Werden die von den Abgeordneten gemachten Angaben im Internet oder Handbuch ver\u00F6ffentlicht?",
-        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
+        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
         "erklaerung": "Offenlegung Interessenverkn\u00FCpfung nur im Ausschuss vor Sitzungsbeginn mit Folge Teilnahme eines Vertreters",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
-        "bezeichnung": "Verbot von Direktspenden?",
+        "hintergrund": "Muss eine Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit offengelegt werden? ",
+        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
         "erklaerung": "Nein.",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -830,7 +830,7 @@
         "kategorie": "Karenzzeit"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte, berufliche T\u00E4tigkeiten, sowie T\u00E4tigkeit als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte berufliche T\u00E4tigkeiten sowie T\u00E4tigkeiten als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
         "bezeichnung": "Anzeigepflicht vor Mandats\u00FCbernahme?",
         "maximalpunkte": 5,
         "erreichte_punkte": 2,
@@ -838,7 +838,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten etc.); Unternehmensbeteiligungen? Aktienoptionen? Schwellenwerte beachten!",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
@@ -846,7 +846,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder EURO-genau)",
+        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder Euro-genau)",
         "bezeichnung": "Ver\u00F6ffentlichung der Nebeneink\u00FCnfte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 2,
@@ -854,7 +854,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit? Ab welcher Betragsh\u00F6he gilt diese? Ver\u00F6ffentlichung?\n",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -863,15 +863,15 @@
       },
       {
         "hintergrund": "Ist die Annahme von Spenden (Direktspenden) an Abgeordnete verboten?",
-        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
+        "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 1,
         "erklaerung": "Bei wiederholten oder schwerwiegenden Verst\u00F6\u00DFen lediglich R\u00FCge\nmit Unterrichtung des LTags (ohne Aussprache)\n",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
-        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?   Ver\u00F6ffentlichung als LT-Drucksache?",
+        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "LTag Internet",
@@ -879,22 +879,22 @@
       },
       {
         "hintergrund": "Werden die von den Abgeordneten gemachten Angaben im Internet oder Handbuch ver\u00F6ffentlicht?",
-        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
+        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 1,
         "erklaerung": "Ausschussmitglied muss Interessenverkn\u00FCpfung offenlegen, es sei denn diese ist bereits aus Handbuch/Internet ersichtlich",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
-        "bezeichnung": "Verbot von Direktspenden?",
+        "hintergrund": "Muss eine Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit offengelegt werden? ",
+        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
         "erklaerung": "Nein",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -1056,7 +1056,7 @@
         "kategorie": "Karenzzeit"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte, berufliche T\u00E4tigkeiten, sowie T\u00E4tigkeit als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte berufliche T\u00E4tigkeiten sowie T\u00E4tigkeiten als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
         "bezeichnung": "Anzeigepflicht vor Mandats\u00FCbernahme?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -1064,7 +1064,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten etc.); Unternehmensbeteiligungen? Aktienoptionen? Schwellenwerte beachten!",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -1072,7 +1072,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder EURO-genau)",
+        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder Euro-genau)",
         "bezeichnung": "Ver\u00F6ffentlichung der Nebeneink\u00FCnfte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 2,
@@ -1080,7 +1080,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit? Ab welcher Betragsh\u00F6he gilt diese? Ver\u00F6ffentlichung?\n",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 1,
@@ -1089,15 +1089,15 @@
       },
       {
         "hintergrund": "Ist die Annahme von Spenden (Direktspenden) an Abgeordnete verboten?",
-        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
+        "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 1,
         "erklaerung": "Keine Sanktionen\n\nNur Mitteilung an B\u00FCrgerschaft, ob Versto\u00DF festgestellt worden ist\n",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
-        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?   Ver\u00F6ffentlichung als LT-Drucksache?",
+        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "Internet Brem. B\u00FCrgerschaft",
@@ -1105,6 +1105,14 @@
       },
       {
         "hintergrund": "Werden die von den Abgeordneten gemachten Angaben im Internet oder Handbuch ver\u00F6ffentlicht?",
+        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
+        "maximalpunkte": 5,
+        "erreichte_punkte": 0,
+        "erklaerung": "Nein ",
+        "kategorie": "Verhaltensregeln"
+      },
+      {
+        "hintergrund": "Muss eine Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit offengelegt werden? ",
         "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -1112,15 +1120,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
-        "bezeichnung": "Verbot von Direktspenden?",
-        "maximalpunkte": 5,
-        "erreichte_punkte": 0,
-        "erklaerung": "Nein ",
-        "kategorie": "Verhaltensregeln"
-      },
-      {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -1282,7 +1282,7 @@
         "kategorie": "Karenzzeit"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte, berufliche T\u00E4tigkeiten, sowie T\u00E4tigkeit als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte berufliche T\u00E4tigkeiten sowie T\u00E4tigkeiten als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
         "bezeichnung": "Anzeigepflicht vor Mandats\u00FCbernahme?",
         "maximalpunkte": 5,
         "erreichte_punkte": 2,
@@ -1290,7 +1290,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten etc.); Unternehmensbeteiligungen? Aktienoptionen? Schwellenwerte beachten!",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -1298,7 +1298,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder EURO-genau)",
+        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder Euro-genau)",
         "bezeichnung": "Ver\u00F6ffentlichung der Nebeneink\u00FCnfte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -1306,7 +1306,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit? Ab welcher Betragsh\u00F6he gilt diese? Ver\u00F6ffentlichung?\n",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -1315,15 +1315,15 @@
       },
       {
         "hintergrund": "Ist die Annahme von Spenden (Direktspenden) an Abgeordnete verboten?",
-        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
+        "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 1,
         "erklaerung": "Keine Sanktionen\n\nFeststellung Versto\u00DF wird lediglich dem \u00C4ltestenrat mitgeteilt",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
-        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?   Ver\u00F6ffentlichung als LT-Drucksache?",
+        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
         "maximalpunkte": 5,
         "erreichte_punkte": 1,
         "erklaerung": "Nur j\u00E4hrlicher Bericht an die Fraktionsvorsitzenden und Gruppensprecher*innen",
@@ -1331,22 +1331,22 @@
       },
       {
         "hintergrund": "Werden die von den Abgeordneten gemachten Angaben im Internet oder Handbuch ver\u00F6ffentlicht?",
-        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
+        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
         "erklaerung": "Offenlegung Interessenverkn\u00FCpfung im Ausschuss ",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
-        "bezeichnung": "Verbot von Direktspenden?",
+        "hintergrund": "Muss eine Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit offengelegt werden? ",
+        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
         "erklaerung": "Nein",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -1508,7 +1508,7 @@
         "kategorie": "Karenzzeit"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte, berufliche T\u00E4tigkeiten, sowie T\u00E4tigkeit als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte berufliche T\u00E4tigkeiten sowie T\u00E4tigkeiten als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
         "bezeichnung": "Anzeigepflicht vor Mandats\u00FCbernahme?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -1516,7 +1516,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten etc.); Unternehmensbeteiligungen? Aktienoptionen? Schwellenwerte beachten!",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
@@ -1524,7 +1524,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder EURO-genau)",
+        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder Euro-genau)",
         "bezeichnung": "Ver\u00F6ffentlichung der Nebeneink\u00FCnfte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
@@ -1532,7 +1532,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit? Ab welcher Betragsh\u00F6he gilt diese? Ver\u00F6ffentlichung?\n",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -1541,15 +1541,15 @@
       },
       {
         "hintergrund": "Ist die Annahme von Spenden (Direktspenden) an Abgeordnete verboten?",
-        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
+        "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
         "erklaerung": "nein",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
-        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?   Ver\u00F6ffentlichung als LT-Drucksache?",
+        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
         "erklaerung": "Ermahnung bis Ordnungsgeld\n \u00BD j\u00E4hrl. Abg.-bez\u00FCge\n\nVer\u00F6ffentl. als LTag-Drs.\n",
@@ -1557,22 +1557,22 @@
       },
       {
         "hintergrund": "Werden die von den Abgeordneten gemachten Angaben im Internet oder Handbuch ver\u00F6ffentlicht?",
-        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
+        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "Handbuch + Internet LTag",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
-        "bezeichnung": "Verbot von Direktspenden?",
+        "hintergrund": "Muss eine Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit offengelegt werden? ",
+        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 1,
         "erklaerung": "Ausschussmitglied muss Interessenverkn\u00FCpfung offenlegen, es sei denn diese bereits aus Abgeordnetenprofil ersichtlich",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -1734,7 +1734,7 @@
         "kategorie": "Karenzzeit"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte, berufliche T\u00E4tigkeiten, sowie T\u00E4tigkeit als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte berufliche T\u00E4tigkeiten sowie T\u00E4tigkeiten als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
         "bezeichnung": "Anzeigepflicht vor Mandats\u00FCbernahme?",
         "maximalpunkte": 5,
         "erreichte_punkte": 2,
@@ -1742,7 +1742,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten etc.); Unternehmensbeteiligungen? Aktienoptionen? Schwellenwerte beachten!",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -1750,7 +1750,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder EURO-genau)",
+        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder Euro-genau)",
         "bezeichnung": "Ver\u00F6ffentlichung der Nebeneink\u00FCnfte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -1758,7 +1758,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit? Ab welcher Betragsh\u00F6he gilt diese? Ver\u00F6ffentlichung?\n",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -1767,15 +1767,15 @@
       },
       {
         "hintergrund": "Ist die Annahme von Spenden (Direktspenden) an Abgeordnete verboten?",
-        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
+        "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 1,
         "erklaerung": "Keine Sanktionen\n\nNur Mitteilung Pr\u00FCfungsergebnis Versto\u00DF an LTag\n",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
-        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?   Ver\u00F6ffentlichung als LT-Drucksache?",
+        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "Ver\u00F6ffentlichung als amtliche Mitteilung",
@@ -1783,22 +1783,22 @@
       },
       {
         "hintergrund": "Werden die von den Abgeordneten gemachten Angaben im Internet oder Handbuch ver\u00F6ffentlicht?",
-        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
+        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
         "erklaerung": "Offenlegung Interessenverkn\u00FCpfung nur im Ausschuss ",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
-        "bezeichnung": "Verbot von Direktspenden?",
+        "hintergrund": "Muss eine Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit offengelegt werden? ",
+        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
         "erklaerung": "Nein",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -1960,7 +1960,7 @@
         "kategorie": "Karenzzeit"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte, berufliche T\u00E4tigkeiten, sowie T\u00E4tigkeit als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte berufliche T\u00E4tigkeiten sowie T\u00E4tigkeiten als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
         "bezeichnung": "Anzeigepflicht vor Mandats\u00FCbernahme?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -1968,7 +1968,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten etc.); Unternehmensbeteiligungen? Aktienoptionen? Schwellenwerte beachten!",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
@@ -1976,7 +1976,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder EURO-genau)",
+        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder Euro-genau)",
         "bezeichnung": "Ver\u00F6ffentlichung der Nebeneink\u00FCnfte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
@@ -1984,7 +1984,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit? Ab welcher Betragsh\u00F6he gilt diese? Ver\u00F6ffentlichung?\n",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -1993,15 +1993,15 @@
       },
       {
         "hintergrund": "Ist die Annahme von Spenden (Direktspenden) an Abgeordnete verboten?",
-        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
+        "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
         "erklaerung": "nein",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
-        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?   Ver\u00F6ffentlichung als LT-Drucksache?",
+        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
         "maximalpunkte": 5,
         "erreichte_punkte": 2,
         "erklaerung": "Ordnungsgeld bis \u00BD j\u00E4hrl. Grundentsch\u00E4digung\nNur Mitteilung an LTag",
@@ -2009,22 +2009,22 @@
       },
       {
         "hintergrund": "Werden die von den Abgeordneten gemachten Angaben im Internet oder Handbuch ver\u00F6ffentlicht?",
-        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
+        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "Handbuch + Internet LTag",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
-        "bezeichnung": "Verbot von Direktspenden?",
+        "hintergrund": "Muss eine Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit offengelegt werden? ",
+        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
         "erklaerung": "Offenlegung Interessenverkn\u00FCpfung nur im Ausschuss ",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -2186,7 +2186,7 @@
         "kategorie": "Karenzzeit"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte, berufliche T\u00E4tigkeiten, sowie T\u00E4tigkeit als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte berufliche T\u00E4tigkeiten sowie T\u00E4tigkeiten als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
         "bezeichnung": "Anzeigepflicht vor Mandats\u00FCbernahme?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -2194,7 +2194,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten etc.); Unternehmensbeteiligungen? Aktienoptionen? Schwellenwerte beachten!",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -2202,7 +2202,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder EURO-genau)",
+        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder Euro-genau)",
         "bezeichnung": "Ver\u00F6ffentlichung der Nebeneink\u00FCnfte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -2210,7 +2210,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit? Ab welcher Betragsh\u00F6he gilt diese? Ver\u00F6ffentlichung?\n",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -2219,15 +2219,15 @@
       },
       {
         "hintergrund": "Ist die Annahme von Spenden (Direktspenden) an Abgeordnete verboten?",
-        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
+        "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
         "erklaerung": "nein",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
-        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?   Ver\u00F6ffentlichung als LT-Drucksache?",
+        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
         "erklaerung": "Unterrichtung des Pr\u00E4sidiums\nErmahnung \nOrdnungsgeld\nbis \u00BD j\u00E4hrl. Abg.-Bez\u00FCge\n\nVer\u00F6ffentl. als Ltag-Drs. \nKein unabh\u00E4ngiges Gremium",
@@ -2235,22 +2235,22 @@
       },
       {
         "hintergrund": "Werden die von den Abgeordneten gemachten Angaben im Internet oder Handbuch ver\u00F6ffentlicht?",
-        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
+        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "Internet LTag",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
-        "bezeichnung": "Verbot von Direktspenden?",
+        "hintergrund": "Muss eine Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit offengelegt werden? ",
+        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
         "erklaerung": "Offenlegung Interessenverkn\u00FCpfung nur im Ausschuss",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -2412,7 +2412,7 @@
         "kategorie": "Karenzzeit"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte, berufliche T\u00E4tigkeiten, sowie T\u00E4tigkeit als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte berufliche T\u00E4tigkeiten sowie T\u00E4tigkeiten als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
         "bezeichnung": "Anzeigepflicht vor Mandats\u00FCbernahme?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -2420,7 +2420,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten etc.); Unternehmensbeteiligungen? Aktienoptionen? Schwellenwerte beachten!",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -2428,7 +2428,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder EURO-genau)",
+        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder Euro-genau)",
         "bezeichnung": "Ver\u00F6ffentlichung der Nebeneink\u00FCnfte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
@@ -2436,7 +2436,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit? Ab welcher Betragsh\u00F6he gilt diese? Ver\u00F6ffentlichung?\n",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 2,
@@ -2445,15 +2445,15 @@
       },
       {
         "hintergrund": "Ist die Annahme von Spenden (Direktspenden) an Abgeordnete verboten?",
-        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
+        "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
         "erklaerung": "nein",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
-        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?   Ver\u00F6ffentlichung als LT-Drucksache?",
+        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
         "erklaerung": "Ermahnung Ordnungsgeld\nbis 1/2 j\u00E4hrl. Abg.-Bez\u00FCge\n\nVer\u00F6ffentl. als Ltag-Drs",
@@ -2461,22 +2461,22 @@
       },
       {
         "hintergrund": "Werden die von den Abgeordneten gemachten Angaben im Internet oder Handbuch ver\u00F6ffentlicht?",
-        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
+        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "Handbuch + Internet LTag",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
-        "bezeichnung": "Verbot von Direktspenden?",
+        "hintergrund": "Muss eine Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit offengelegt werden? ",
+        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 1,
         "erklaerung": "Ausschussmitglied muss Interessenverkn\u00FCpfung offenlegen, es sei denn diese bereits aus Abgeordnetenprofil ersichtlich ",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -2638,7 +2638,7 @@
         "kategorie": "Karenzzeit"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte, berufliche T\u00E4tigkeiten, sowie T\u00E4tigkeit als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte berufliche T\u00E4tigkeiten sowie T\u00E4tigkeiten als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
         "bezeichnung": "Anzeigepflicht vor Mandats\u00FCbernahme?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -2646,7 +2646,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten etc.); Unternehmensbeteiligungen? Aktienoptionen? Schwellenwerte beachten!",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -2654,7 +2654,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder EURO-genau)",
+        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder Euro-genau)",
         "bezeichnung": "Ver\u00F6ffentlichung der Nebeneink\u00FCnfte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
@@ -2662,7 +2662,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit? Ab welcher Betragsh\u00F6he gilt diese? Ver\u00F6ffentlichung?\n",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -2671,15 +2671,15 @@
       },
       {
         "hintergrund": "Ist die Annahme von Spenden (Direktspenden) an Abgeordnete verboten?",
-        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
+        "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
         "erklaerung": "nein",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
-        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?   Ver\u00F6ffentlichung als LT-Drucksache?",
+        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
         "erklaerung": "Ermahnung Ordnungsgeld\nbis 1/2 j\u00E4hrl. Abg.-Bez\u00FCge\n\nVer\u00F6ffentl. als LTag-Drs.\n",
@@ -2687,22 +2687,22 @@
       },
       {
         "hintergrund": "Werden die von den Abgeordneten gemachten Angaben im Internet oder Handbuch ver\u00F6ffentlicht?",
-        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
+        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "Internet LTag",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
-        "bezeichnung": "Verbot von Direktspenden?",
+        "hintergrund": "Muss eine Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit offengelegt werden? ",
+        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
         "erklaerung": "Offenlegung Interessenverkn\u00FCpfung nur im Ausschuss ",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -2864,7 +2864,7 @@
         "kategorie": "Karenzzeit"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte, berufliche T\u00E4tigkeiten, sowie T\u00E4tigkeit als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte berufliche T\u00E4tigkeiten sowie T\u00E4tigkeiten als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
         "bezeichnung": "Anzeigepflicht vor Mandats\u00FCbernahme?",
         "maximalpunkte": 5,
         "erreichte_punkte": 1,
@@ -2872,7 +2872,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten etc.); Unternehmensbeteiligungen? Aktienoptionen? Schwellenwerte beachten!",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -2880,7 +2880,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder EURO-genau)",
+        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder Euro-genau)",
         "bezeichnung": "Ver\u00F6ffentlichung der Nebeneink\u00FCnfte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
@@ -2888,7 +2888,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit? Ab welcher Betragsh\u00F6he gilt diese? Ver\u00F6ffentlichung?\n",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -2897,15 +2897,15 @@
       },
       {
         "hintergrund": "Ist die Annahme von Spenden (Direktspenden) an Abgeordnete verboten?",
-        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
+        "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
         "erklaerung": "nein",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
-        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?   Ver\u00F6ffentlichung als LT-Drucksache?",
+        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
         "maximalpunkte": 5,
         "erreichte_punkte": 2,
         "erklaerung": "Ermahnung Ordnungsgeld\n bis 1/2 j\u00E4hrl. Abg.-Bez\u00FCge\n\nVer\u00F6ffentlichung nicht vorgesehen\n",
@@ -2913,22 +2913,22 @@
       },
       {
         "hintergrund": "Werden die von den Abgeordneten gemachten Angaben im Internet oder Handbuch ver\u00F6ffentlicht?",
-        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
+        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
         "erklaerung": "Internet LTag",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
-        "bezeichnung": "Verbot von Direktspenden?",
+        "hintergrund": "Muss eine Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit offengelegt werden? ",
+        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "Offenlegung jeder individuellen Interessenverkn\u00FCpfung (also nicht beschr\u00E4nkt auf Ausschusst\u00E4tigkeit)",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -3090,7 +3090,7 @@
         "kategorie": "Karenzzeit"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte, berufliche T\u00E4tigkeiten, sowie T\u00E4tigkeit als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte berufliche T\u00E4tigkeiten sowie T\u00E4tigkeiten als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
         "bezeichnung": "Anzeigepflicht vor Mandats\u00FCbernahme?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
@@ -3098,7 +3098,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten etc.); Unternehmensbeteiligungen? Aktienoptionen? Schwellenwerte beachten!",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -3106,7 +3106,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder EURO-genau)",
+        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder Euro-genau)",
         "bezeichnung": "Ver\u00F6ffentlichung der Nebeneink\u00FCnfte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 2,
@@ -3114,7 +3114,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit? Ab welcher Betragsh\u00F6he gilt diese? Ver\u00F6ffentlichung?\n",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 2,
@@ -3123,15 +3123,15 @@
       },
       {
         "hintergrund": "Ist die Annahme von Spenden (Direktspenden) an Abgeordnete verboten?",
-        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
+        "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
         "erklaerung": "nein",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
-        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?   Ver\u00F6ffentlichung als LT-Drucksache?",
+        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
         "erklaerung": "Ermahnung\n Ordnungsgeld  bis 1/2 j\u00E4hrl. Abg.-Bez\u00FCge\n\nVer\u00F6ffentl. als LTag-Drs.",
@@ -3139,22 +3139,22 @@
       },
       {
         "hintergrund": "Werden die von den Abgeordneten gemachten Angaben im Internet oder Handbuch ver\u00F6ffentlicht?",
-        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
+        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "Internet LTag",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
-        "bezeichnung": "Verbot von Direktspenden?",
+        "hintergrund": "Muss eine Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit offengelegt werden? ",
+        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
         "erklaerung": "Offenlegung Interessenverkn\u00FCpfung nur im Ausschuss ",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -3316,7 +3316,7 @@
         "kategorie": "Karenzzeit"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte, berufliche T\u00E4tigkeiten, sowie T\u00E4tigkeit als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte berufliche T\u00E4tigkeiten sowie T\u00E4tigkeiten als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
         "bezeichnung": "Anzeigepflicht vor Mandats\u00FCbernahme?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -3324,7 +3324,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten etc.); Unternehmensbeteiligungen? Aktienoptionen? Schwellenwerte beachten!",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -3332,7 +3332,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder EURO-genau)",
+        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder Euro-genau)",
         "bezeichnung": "Ver\u00F6ffentlichung der Nebeneink\u00FCnfte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 2,
@@ -3340,7 +3340,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit? Ab welcher Betragsh\u00F6he gilt diese? Ver\u00F6ffentlichung?\n",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -3349,15 +3349,15 @@
       },
       {
         "hintergrund": "Ist die Annahme von Spenden (Direktspenden) an Abgeordnete verboten?",
-        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
+        "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
         "erklaerung": "nein",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
-        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?   Ver\u00F6ffentlichung als LT-Drucksache?",
+        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
         "erklaerung": "Ermahnung \nOrdnungsgeld bis 1/2 j\u00E4hrl. Abg.-Bez\u00FCge\n\nVer\u00F6ffentl. als LTag-Drs.",
@@ -3365,22 +3365,22 @@
       },
       {
         "hintergrund": "Werden die von den Abgeordneten gemachten Angaben im Internet oder Handbuch ver\u00F6ffentlicht?",
-        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
+        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "LTag-Drs.+\nInternet LTag\nLTag-Drs.+\nInternet LTag",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
-        "bezeichnung": "Verbot von Direktspenden?",
+        "hintergrund": "Muss eine Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit offengelegt werden? ",
+        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
         "erklaerung": "Offenlegung Interessenverkn\u00FCpfung nur im Ausschuss ",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -3542,7 +3542,7 @@
         "kategorie": "Karenzzeit"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte, berufliche T\u00E4tigkeiten, sowie T\u00E4tigkeit als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte berufliche T\u00E4tigkeiten sowie T\u00E4tigkeiten als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
         "bezeichnung": "Anzeigepflicht vor Mandats\u00FCbernahme?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
@@ -3550,7 +3550,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten etc.); Unternehmensbeteiligungen? Aktienoptionen? Schwellenwerte beachten!",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -3558,7 +3558,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder EURO-genau)",
+        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder Euro-genau)",
         "bezeichnung": "Ver\u00F6ffentlichung der Nebeneink\u00FCnfte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 3,
@@ -3566,7 +3566,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit? Ab welcher Betragsh\u00F6he gilt diese? Ver\u00F6ffentlichung?\n",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
@@ -3575,15 +3575,15 @@
       },
       {
         "hintergrund": "Ist die Annahme von Spenden (Direktspenden) an Abgeordnete verboten?",
-        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
+        "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
         "erklaerung": "nein",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
-        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?   Ver\u00F6ffentlichung als LT-Drucksache?",
+        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
         "maximalpunkte": 5,
         "erreichte_punkte": 4,
         "erklaerung": "Ermahnung\nOrdnungsgeld bis 1/2 j\u00E4hrl. Abg.-Bez\u00FCge\n\nVer\u00F6ff. als LT-Drs.\n",
@@ -3591,22 +3591,22 @@
       },
       {
         "hintergrund": "Werden die von den Abgeordneten gemachten Angaben im Internet oder Handbuch ver\u00F6ffentlicht?",
-        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
+        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "LTag-Handbuch\n+ Internet",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
-        "bezeichnung": "Verbot von Direktspenden?",
+        "hintergrund": "Muss eine Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit offengelegt werden? ",
+        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 1,
         "erklaerung": "Ausschussmitglied muss Interessenverkn\u00FCpfung offenlegen, es sei denn diese bereits aus Abgeordnetenprofil ersichtlich ",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 0,
@@ -3768,7 +3768,7 @@
         "kategorie": "Karenzzeit"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte, berufliche T\u00E4tigkeiten, sowie T\u00E4tigkeit als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr vor Mandats\u00FCbernahme ausge\u00FCbte berufliche T\u00E4tigkeiten sowie T\u00E4tigkeiten als Vorstand/Aufsichtsrat/Beirat o.\u00E4. ?",
         "bezeichnung": "Anzeigepflicht vor Mandats\u00FCbernahme?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -3776,7 +3776,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten, Unternehmensbeteiligungen, Aktienoptionen etc.)?",
+        "hintergrund": "Besteht eine Anzeigepflicht f\u00FCr w\u00E4hrend der Mandatsaus\u00FCbung ausge\u00FCbte T\u00E4tigkeiten (einschl. Beratung, Vortr\u00E4ge, Gutachten etc.); Unternehmensbeteiligungen? Aktienoptionen? Schwellenwerte beachten!",
         "bezeichnung": "Anzeigepflicht w\u00E4hrend Mandatsaus\u00FCbung?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -3784,7 +3784,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder EURO-genau)",
+        "hintergrund": "Werden die angezeigten Nebeneink\u00FCnfte ver\u00F6ffentlicht?\n(nur in Stufen oder Euro-genau)",
         "bezeichnung": "Ver\u00F6ffentlichung der Nebeneink\u00FCnfte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -3792,7 +3792,7 @@
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit, welche an die Partei weiter geleitet werden? Und wenn ja, ab welcher Betragsh\u00F6he gilt diese Anzeigepflicht?",
+        "hintergrund": "Gibt es eine Anzeigepflicht bei Spenden an Abgeordnete f\u00FCr politische Arbeit? Ab welcher Betragsh\u00F6he gilt diese? Ver\u00F6ffentlichung?\n",
         "bezeichnung": "Anzeigepflicht von Abgeordnetenspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
@@ -3801,15 +3801,15 @@
       },
       {
         "hintergrund": "Ist die Annahme von Spenden (Direktspenden) an Abgeordnete verboten?",
-        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
+        "bezeichnung": "Verbot von Direktspenden?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "Ja",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten? Und werden diese ver\u00F6ffentlicht?",
-        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
+        "hintergrund": "Gibt es Sanktionen bei Verst\u00F6\u00DFen gegen die in vorigen Kriterien aufgef\u00FChrten Pflichten?   Ver\u00F6ffentlichung als LT-Drucksache?",
+        "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen gegen die Anzeigepflichten?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "Ermahnung Ordnungsgeld bis 1/2 j\u00E4hrl. Abg.-Bez\u00FCge\n\nVer\u00F6ffentl. als BT-Drucksache.",
@@ -3817,22 +3817,22 @@
       },
       {
         "hintergrund": "Werden die von den Abgeordneten gemachten Angaben im Internet oder Handbuch ver\u00F6ffentlicht?",
-        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
+        "bezeichnung": "Ver\u00F6ffentlichung im Internet oder Abgeordnetenhandbuch?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "BT-Internet",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "M\u00FCssen Interessenkonflikte bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit ver\u00F6ffentlicht werden?",
-        "bezeichnung": "Verbot von Direktspenden?",
+        "hintergrund": "Muss eine Interessenverkn\u00FCpfung bei Mitarbeit in einem Ausschuss oder auch bei sonstiger gesetzgeberischer Arbeit offengelegt werden? ",
+        "bezeichnung": "Offenlegung potenzieller Interessenkonflikte?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
         "erklaerung": "Einfaches Ausschussmitglied muss Interessenverkn\u00FCpfung vor Wortmeldung in der Beratung offenlegen\nBerichterstatter/in bereits vor Beratungsbeginn\n",
         "kategorie": "Verhaltensregeln"
       },
       {
-        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.) w\u00E4hrend der Mandatsaus\u00FCbung f\u00FCr Mitglieder von Regierung oder Parlament verboten? ",
+        "hintergrund": "Ist die Aus\u00FCbung bezahlter T\u00E4tigkeiten (Lobbyarbeit, Beratung, Vortr\u00E4ge, Gutachten etc.)  w\u00E4hrend der Mandatsaus\u00FCbung verboten? ",
         "bezeichnung": "Lobbyt\u00E4tigkeit zul\u00E4ssig/geregelt?",
         "maximalpunkte": 5,
         "erreichte_punkte": 5,
