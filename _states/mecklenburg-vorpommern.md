@@ -22,4 +22,4 @@ Die Landesregierung hat 2021 [Karenzzeitregelungen](https://www.dokumentation.la
 Diese [Verhaltensregeln](https://www.landtag-mv.de/fileadmin/Publikationen_PDF/Geschaeftsordnung_WP6.pdf) genügen nur bezüglich der Pflicht zur Offenlegung einer Interessenverknüpfung bei der Ausschussarbeit den Anforderungen. Demgegenüber gibt es keine Pflicht die Höhe der erzielten Nebeneinkünfte anzuzeigen sowie keine wirksame Sanktionsmöglichkeit bei Pflichtverstößen (lediglich Mitteilung des Prüfungsergebnisses an den Landtag).
 
 
-* Das Transparenzregister in Meckelnburg-Vorpommern wurde zunächst beim Update des Lobbyrankings am 10. März 2022 nicht mitbewertet. Die Bewertung des Registers wurde am 15. März 2022 nachgeholt. Wir bitten den Fehler zu entschuldigen. 
+* Das im November 2021 eingeführte "Transparenzregister" in Meckelnburg-Vorpommern wurde zunächst beim Update des Lobbyrankings am 10. März 2022 nicht berücksichtigt. Wir bitten den Fehler zu entschuldigen. Die Bewertung des Registers wurde am 15. März 2022 nachgeholt.
