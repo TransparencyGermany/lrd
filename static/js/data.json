@@ -1593,8 +1593,8 @@
         "hintergrund": "Gibt es eine verbindliche Regelung sowohl f\u00FCr Abgeordnete im Parlament als auch f\u00FCr die Regierung (Ministerien)?",
         "bezeichnung": "G\u00FCltig f\u00FCr Parlament & Regierung?",
         "maximalpunkte": 9,
-        "erreichte_punkte": 0,
-        "erklaerung": "Es wurde bisher kein Lobbyregister eingef\u00FChrt.",
+        "erreichte_punkte": 4,
+        "erklaerung": "Ja, das Lobbyregister gilt für Parlament und Regierung, die Eintragung ist jedoch nicht verpflichtend zur Kontaktaufnahme und umfasst nicht die wesentlichen Informationen.",
         "kategorie": "Lobbyregister"
       },
       {
@@ -1609,8 +1609,8 @@
         "hintergrund": "Sind bestimmte Rechte f\u00FCr die Interessenvertreter an die Eintragung, wie Hausausweis, Teilnahme an Anh\u00F6rungen etc.,\u00A0gebunden oder gibt es alternativ Sanktionen bei Verst\u00F6\u00DFen?",
         "bezeichnung": "Sanktionen bei Verst\u00F6\u00DFen?",
         "maximalpunkte": 3,
-        "erreichte_punkte": 0,
-        "erklaerung": "Nein",
+        "erreichte_punkte": 3,
+        "erklaerung": "Ja",
         "kategorie": "Lobbyregister"
       },
       {
@@ -1641,8 +1641,8 @@
         "hintergrund": "Sind Informationen der Lobbyisten ver\u00F6ffentlicht und\u00A0frei einsehbar?",
         "bezeichnung": "Lobby-Eingaben \u00F6ffentlich zug\u00E4nglich?",
         "maximalpunkte": 6,
-        "erreichte_punkte": 0,
-        "erklaerung": "Nein",
+        "erreichte_punkte": 6,
+        "erklaerung": "Die Eingaben sind öffentlich zugänglich, die Eintragung jedoch nicht verpflichtend.",
         "kategorie": "Lobbyregister"
       },
       {
