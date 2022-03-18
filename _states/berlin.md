@@ -8,7 +8,7 @@ Fußabdruck_link: "https://www.parlament-berlin.de/dokumente/lobbyregister"
 Karenz_year: 
 Karenz_link: 
 Verhaltensr_year: 2019
-Verhaltensr_link: "https://www.parlament-berlin.de/C1257B55002B290D/vwContentByKey/W29CANFU717SHEQDE/$FILE/LandesAbgG_-_Auszug_5a.pdf"
+Verhaltensr_link: "https://www.parlament-berlin.de/media/download/1897"
 layout: state
 status: complete
 ---
@@ -19,4 +19,4 @@ Berlin hat 2021 ein Lobbyregistergesetz verabschiedet, dessen Regelungen jedoch 
 
 Im Koalitionsvertrag der rot-rot-grünen Koalition ist eine Regelung zur Karenzzeit von SenatorInnen in Anlehnung an die Regelung für StaatssekretärInnen (§ 68 Abs. 1 LBG) vorgesehen. Dieses Versprechen hat die Koalition noch nicht eingelöst.
 
-Die Berliner [Verhaltensregeln](https://www.parlament-berlin.de/C1257B55002B290D/vwContentByKey/W29CANFU717SHEQDE/$FILE/LandesAbgG_-_Auszug_5a.pdf) enthalten erhebliche Lücken. Unzureichend geregelt sind die Anzeigepflicht bezüglich der vor der Mandatsübernahme ausgeübten Tätigkeiten sowie der Angabe der Höhe der Nebeneinkünfte der Abgeordneten. Vor allem fehlt eine Möglichkeit Sanktionen zu verhängen.
+Die Berliner [Verhaltensregeln](https://www.parlament-berlin.de/media/download/1897) enthalten erhebliche Lücken. Unzureichend geregelt sind die Anzeigepflicht bezüglich der vor der Mandatsübernahme ausgeübten Tätigkeiten sowie der Angabe der Höhe der Nebeneinkünfte der Abgeordneten. Vor allem fehlt eine Möglichkeit Sanktionen zu verhängen.
