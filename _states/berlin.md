@@ -13,10 +13,6 @@ layout: state
 status: complete
 ---
 
-In Berlin existiert keine Regelung für ein Lobbyregister. Das 2021 verabschiedete Lobbyregistergesetz stellt einen legislativen Fußabdruck vor, jedoch kein Lobbyregister.
+Im Koalitionsvertrag 2023 – 2026 der rot-schwarzen Koalition ist eine Regelung zur Karenzzeit von Senatorinnen und Senatoren (im Gegensatz zum vorhergegangen Koalitionsvertrag) nicht mehr vorgesehen. Es liegt lediglich ein Gesetzentwurf der Opposition vom Mai 2023 vor. 
 
-Berlin hat 2021 ein Lobbyregistergesetz verabschiedet, dessen Regelungen jedoch eigentlich ein [legislativen Fußabdruck](https://www.parlament-berlin.de/dokumente/lobbyregister) darstellt. Das am 4. November 2021 in Kraft getretende Gesetz ist gültig für das Parlament und die Regierung und erfasst alle schriftlichen Eingaben, die anschließend veröffentlicht werden.
-
-Im Koalitionsvertrag der rot-rot-grünen Koalition ist eine Regelung zur Karenzzeit von SenatorInnen in Anlehnung an die Regelung für StaatssekretärInnen (§ 68 Abs. 1 LBG) vorgesehen. Dieses Versprechen hat die Koalition noch nicht eingelöst.
-
-Die Berliner [Verhaltensregeln](https://www.parlament-berlin.de/media/download/1897) enthalten erhebliche Lücken. Unzureichend geregelt sind die Anzeigepflicht bezüglich der vor der Mandatsübernahme ausgeübten Tätigkeiten sowie der Angabe der Höhe der Nebeneinkünfte der Abgeordneten. Vor allem fehlt eine Möglichkeit Sanktionen zu verhängen.
+Die Berliner [Verhaltensregeln](https://www.parlament-berlin.de/media/download/1897) enthalten erhebliche Lücken. Unzureichend geregelt sind die Anzeigepflicht bezüglich den vor der Mandatsübernahme ausgeübten Tätigkeiten sowie der Angabe der Höhe der Nebeneinkünfte der Abgeordneten. Vor allem fehlt eine Möglichkeit, Sanktionen zu verhängen. 
