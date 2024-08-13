@@ -13,6 +13,6 @@ status: complete
 
 ---
 
-In Sachsen gibt es inzwischen [Karenzzeiten](https://www.revosax.sachsen.de/vorschrift/3172-Saechsisches-Ministergesetz#p4a) (12 Monate). 
+In Sachsen-Anhalt gibt es nach wie vor keine Regelungen zu Karenzzeiten. Bereits 2014 wurde ein Antrag zur entsprechenden Änderung des Ministergesetzes vom Landtag mit der Begründung abgelehnt, dass man die Karenzzeitenregelung auf Bundesebene abwarten wolle. Diese gibt es inzwischen seit 2015. 
 
-Die [Verhaltensregeln](https://www.revosax.sachsen.de/vorschrift/9477-Abgeordnetengesetz#p4c) hinterlassen einen schwachen Eindruck. Die vor der Mandatsübernahme seitens der MdL ausgeübten Tätigkeiten sind nicht anzuzeigen. Bezüglich der Anzeige der erzielten Nebeneinkünfte lehnen sich die Verhaltensregeln nur an das ehemalige 10-Stufen-Modell des Bundes an. Auch gibt es keine Veröffentlichung verhängter Sanktionen.  
+Die [Verhaltensregeln](https://www.landtag.sachsen-anhalt.de/fileadmin/Downloads/Verhaltensregeln.pdf) bleiben hinsichtlich der Pflicht zur Anzeige der vor der Mandatsübernahme ausgeübten Tätigkeiten (nur wenn weniger als zwei Jahre zurückliegend), wie auch jener zur Anzeige der erzielten Nebeneinkünfte (nur 5-Stufen-Regelung) hinter den Anforderungen zurück. Erhaltene Zuwendungen (Spenden) müssen nicht veröffentlicht werden.
