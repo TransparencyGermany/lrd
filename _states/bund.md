@@ -8,3 +8,6 @@ layout: state
 status: complete
 ---
 
+Im Wege einer 2015 durchgeführten Änderung des Gesetzes über die Rechtsverhältnisse der Mitglieder der Bundesregierung BMinG.pdf (gesetze-im-internet.de) wurde eine Karenzzeitregelung eingeführt. Leider beträgt deren Dauer in der Regel lediglich 12 Monate und nur in schweren Fällen 18 Monate. Sanktionsmöglichkeiten bei einem Verstoß gegen die Karenzzeitregelungen fehlen. 
+
+Veranlasst durch das Fehlverhalten einiger Abgeordneter (etwa Fall Amthor, Maskenaffäre) wurden die Verhaltensregeln verschärft und bei dieser Gelegenheit in das Abgeordnetengesetz (§§ 45 bis 52a) AbgG.pdf (gesetze-im-internet.de) integriert. Bis auf die fehlende Pflicht, den für die Ausübung der Nebentätigkeiten entstehenden zeitlichen Umfang anzugeben, sind sie nunmehr sehr ordentlich. 
