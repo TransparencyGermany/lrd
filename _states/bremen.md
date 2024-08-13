@@ -13,10 +13,6 @@ layout: state
 status: complete
 ---
 
-In Bremen existiert keine Regelung für ein Lobbyregister.
+In Bremen gibt es für die Senatsmitglieder keine Karenzzeitregelung. 
 
-In Bremen existiert keine Regelung für einen legislativen Fußabdruck.
-
-Im rot-grün-roten Koalitionsvertrag findet die Einführung von Karenzzeiten keine Erwähnung. Jedoch existiert ein Vorstandsbeschluss der SPD Bremen, der als Reaktion auf den Fall Amthor Karrenzzeiten fordert.
-
-Mit Ausnahme des allerdings gravierenden Fehlens eines wirksamen Sanktionssystems bei Verstößen gegen die Anzeigepflichten sowie der Nichtberücksichtigung des Problems einer potenziellen Interessenkollision bei der Mitarbeit in einem Ausschuss, lassen sich keine nennenswerten Mängel in der [Regelung von Bremen](https://www.bremische-buergerschaft.de/fileadmin/user_upload/Dateien/rechtsgrundlagen/Geschaeftsordnung_Bremische_Buergerschaft_einzel.pdf) feststellen. Vorbildlich ist die Pflicht zur Nennung des steuerpflichtigen Betrags von Nebeneinkünften nebst dessen Veröffentlichung im Internet. 
+Mit Ausnahme der Pflicht zur Nennung des steuerpflichtigen Betrags von Nebeneinkünften (etwa Gutachten, Vorträge) weisen die [Verhaltensregeln](https://www.bremische-buergerschaft.de/fileadmin/user_upload/Dateien/rechtsgrundlagen/Geschaeftsordnung_Bremische_Buergerschaft_einzel.pdf) erhebliche Mängel auf (etwa: keine Pflicht der Angabe von vor Mandatsantritt ausgeübten Tätigkeiten, keine Herstellung von Transparenz bei der Ausschussarbeit, keine Sanktionsmöglichkeiten). [§ 46b (1) Nr. 1 Abgeordnetengesetz](https://www.lexsoft.de/cgi-bin/lexsoft/justizportal_nrw.cgi?t=172285221268754683&sessionID=1083534370448072784&chosenIndex=Dummy_nv_68&templateID=document&source=context&source=context&highlighting=off&xid=168638,64) ist bezüglich der Pflicht, vor dem Erwerb des Mandats ausgeübte Tätigkeiten anzuzeigen, noch nicht umgesetzt. 
