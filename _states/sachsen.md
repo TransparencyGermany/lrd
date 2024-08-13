@@ -10,11 +10,7 @@ layout: state
 status: complete
 ---
 
-In Sachsen existiert keine Regelung für ein Lobbyregister.
+In Sachsen gibt es inzwischen [Karenzzeiten](https://www.revosax.sachsen.de/vorschrift/3172-Saechsisches-Ministergesetz#p4a) (12 Monate).
 
-In Sachsen existiert keine Regelung für einen legislativen Fußabdruck.
-
-In Sachsen existiert keine Regelung zu Karenzzeiten. Zuletzt wurden zwei separate Anträge der Fraktionen Bündnis 90/Die Grünen und Die Linke vom sächsichen Landtag abgelehnt.
-
-Die [Verhaltensregeln](https://www.landtag.sachsen.de/dokumente/Verhaltensregeln_7_Wahlperiode.pdf) hinterlassen einen zwiespältigen Eindruck. Die vor der Mandatsübernahme seitens der Abgeordneten ausgeübten Tätigkeiten sind nicht anzuzeigen, bezüglich der Anzeige der erzielten Nebeneinkünfte lehnen sich die Verhaltensregeln nur an das 10-Stufen-Modell des Bundes an. Auch gibt es keine Veröffentlichung verhängter Sanktionen. Positiv anzumerken ist alleine die Pflicht, Interessenverknüpfungen auch dann anzuzeigen, wenn es sich nicht um die Tätigkeit in einem Ausschuss handelt.
+Die [Verhaltensregeln](https://www.revosax.sachsen.de/vorschrift/9477-Abgeordnetengesetz#p4c) hinterlassen einen schwachen Eindruck. Die vor der Mandatsübernahme seitens der MdL ausgeübten Tätigkeiten sind nicht anzuzeigen. Bezüglich der Anzeige der erzielten Nebeneinkünfte lehnen sich die Verhaltensregeln nur an das ehemalige 10-Stufen-Modell des Bundes an. Auch gibt es keine Veröffentlichung verhängter Sanktionen.
 
