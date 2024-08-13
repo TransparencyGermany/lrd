@@ -13,10 +13,6 @@ layout: state
 status: complete
 ---
 
-In Brandenburg existiert keine Regelung für ein Lobbyregister. Das dortige so bezeichnete [“Lobbyregister”](https://www.landtag.brandenburg.de/de/parlament/lobbyregister/607534) ist weder verpflichtend bei Kontaktaufnahme, noch werden die für ein Lobbyregister wesentlichen Informationen erfasst.
+In Brandenburg wurde im Jahr 2016 das [Brandenburgische Ministergesetz](https://bravors.brandenburg.de/gesetze/bbgming) geändert und in den §§ 5b – 5d die Karenzzeiten normiert. 
 
-In Brandenburg existiert keine Regelung für  einen legislativen Fußabdruck.
-
-In Brandenburg wurde im Jahr 2016 das Brandenburgische Ministergesetz (BbgMinG) geändert und die Karenzzeiten in [§ 5b-d BbgMinG](https://bravors.brandenburg.de/gesetze/bbgming_2016) normiert.
-
-Diese [Verhaltensregeln](https://bravors.brandenburg.de/gesetze/abgg) verfehlen auf gleich vier Gebieten die notwendigen Standards: Anzeige der vor der Mandatsübernahme ausgeübten Tätigkeiten, Anzeige der Nebeneinkünfte, Sanktionssystem und Pflicht zur Offenlegung potenzieller Interessenskonflikte bei der Mitarbeit in einem Ausschuss.
+Die [Verhaltensregeln](https://bravors.brandenburg.de/gesetze/abgg) hat Brandenburg inzwischen etwas nachgeschärft, es fehlt aber weiterhin an einer wirksamen Sanktion bei Verstößen sowie der Pflicht bei der gesetzgeberischen Arbeit bestehende Interessenverknüpfungen offenzulegen. 
