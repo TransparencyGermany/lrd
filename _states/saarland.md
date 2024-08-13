@@ -14,10 +14,6 @@ status: complete
 
 ---
 
-In Saarland existiert keine Regelung für ein Lobbyregister.
+Im Saarland existieren immer noch keine Regelungen zu Karenzzeiten.  
 
-In Saarland existiert keine Regelung für einen legislativen Fußabdruck.
-
-Im Saarland existieren bislang keine Regelungen zu Karenzzeiten. Ein Gesetzesentwurf der Fraktion Die Linke aus dem Jahr 2019, der Karenzzeiten bei dem Wechsel von einem politischen Spitzenamt in den Posten des Direktors der Landesmedienanstalt vorsah, wurde von der schwarz-roten Landesregierung abgelehnt.
-
-Die [saarländischen Verhaltensregeln](https://www.landtag-saar.de/verhaltensregeln/) verlangen zwar (ebenso wenig wie die der anderen Bundesländer) keine Euro-genauen Angaben der erzielten Nebeneinkünfte, sehen aber immerhin eine 20-Stufen-Regelung vor. Außerdem punktet das Land mit einem Sanktionssystem (Verstöße gegen die Anzeigepflichten) sowie bei der Offenlegung von Interessenkonflikten in der Ausschussarbeit.
+Die saarländischen [Verhaltensregeln](https://www.landtag-saar.de/verhaltensregeln/) verlangen inzwischen eine Euro-genaue Angabe der erzielten Nebeneinkünfte. Außerdem punktet das Land mit einem Sanktionssystem (Verstöße gegen die Anzeigepflichten) sowie bei der Offenlegung von Interessenkonflikten in der Ausschussarbeit.
