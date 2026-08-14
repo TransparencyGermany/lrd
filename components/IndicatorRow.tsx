@@ -28,16 +28,20 @@ export default function IndicatorRow({ indicator, color }: IndicatorRowProps) {
           <dd className={styles.dd}>
             <strong>Erklärung: </strong>
             {indicator.hintergrund}
-            <br />
-            <br />
-            <strong>Ergebnis: </strong>
-            {indicator.erklaerung}
+            {indicator.erklaerung && (
+              <>
+                <br />
+                <br />
+                <strong>Ergebnis: </strong>
+                {indicator.erklaerung}
+              </>
+            )}
           </dd>
         </div>
       </div>
-      <p className={styles.points}>
+      <div className={styles.points}>
         {indicator.erreichte_punkte} von {indicator.maximalpunkte}
-      </p>
+      </div>
       <PointsGrid achieved={indicator.erreichte_punkte} max={indicator.maximalpunkte} color={color} />
     </div>
   );

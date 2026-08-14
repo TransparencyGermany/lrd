@@ -13,6 +13,9 @@ layout: state
 status: complete
 
 ---
-In Rheinland-Pfalz existieren keine Regelungen zu Karenzzeiten. Somit darf ein ausscheidender Minister oder eine ausscheidende Ministerin bereits am darauffolgenden Tag eine wirtschaftliche Tätigkeit aus demselben Arbeitsbereich aufnehmen, für den er/sie im Ministeramt zuständig war. 
 
-Die [Verhaltensregeln](https://landtag-rlp.de/files/pdf1/2022-02-18-verhaltensregeln-fuer-die-mitglieder-des-landtags-rheinland-pfalz.pdf) weisen in Rheinland-Pfalz einen durchschnittlichen Standard auf, mit der einen allerdings gravierenden Ausnahme, dass die erhaltenen Spenden keiner Veröffentlichungspflicht unterliegen. 
+Das sogenannte Lobbyregister des Landtages in Rheinland-Pfalz kann nicht als solches angesehen werden. Es handelt sich um eine reine Verbändeliste, ohne konkretere Angaben über Interessen und Mittel von Lobbyisten, ohne Regeln zur Interessenvertretung und Auslassung einer Vielzahl an Lobbyisten. Ein Fußabdruck existiert nicht.
+
+<!-- In Rheinland-Pfalz existieren keine Regelungen zu Karenzzeiten. Somit darf ein ausscheidender Minister oder eine ausscheidende Ministerin bereits am darauffolgenden Tag eine wirtschaftliche Tätigkeit aus demselben Arbeitsbereich aufnehmen, für den er/sie im Ministeramt zuständig war. 
+
+Die [Verhaltensregeln](https://landtag-rlp.de/files/pdf1/2022-02-18-verhaltensregeln-fuer-die-mitglieder-des-landtags-rheinland-pfalz.pdf) weisen in Rheinland-Pfalz einen durchschnittlichen Standard auf, mit der einen allerdings gravierenden Ausnahme, dass die erhaltenen Spenden keiner Veröffentlichungspflicht unterliegen.  -->

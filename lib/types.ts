@@ -1,3 +1,5 @@
+export type Year = "2024" | "2026";
+
 export type CategoryName =
   | "Lobbyregister"
   | "Legislativer Fußabdruck"
@@ -27,6 +29,11 @@ export interface BarChartDatum {
 export interface CategoryOverview {
   points: number;
   max: number;
+}
+
+export interface StateYearData {
+  overview: Record<string, CategoryOverview>;
+  indicators: Indicator[];
 }
 
 export interface StateMeta {

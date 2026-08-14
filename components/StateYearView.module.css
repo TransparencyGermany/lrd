@@ -1,0 +1,43 @@
+.yearToggle {
+  display: flex;
+  justify-content: center;
+}
+
+.overviewLabel {
+  text-align: center;
+}
+
+.overviewBar {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.catWrapper {
+  margin: 7em 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5em;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.catRow {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  gap: 15px;
+}
+
+.categorySection {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.subinfo {
+  font-family: var(--font-base);
+  color: #515b66;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 20px;
+}

@@ -1,12 +1,11 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import Bar from "@/components/Bar";
-import IndicatorRow from "@/components/IndicatorRow";
-import { CATEGORY_COLORS, CATEGORY_ORDER, OVERVIEW_COLOR } from "@/lib/constants";
-import { rankingData } from "@/lib/data";
+import StateYearView from "@/components/StateYearView";
+import { YEARS } from "@/lib/constants";
+import { rankingDataByYear } from "@/lib/data";
 import { getOverviewForState } from "@/lib/scoring";
 import { getAllStateSlugs, getStateBySlug } from "@/lib/states";
-import type { CategoryName } from "@/lib/types";
+import type { StateYearData, Year } from "@/lib/types";
 import styles from "./page.module.css";
 
 export function generateStaticParams() {
@@ -32,9 +31,18 @@ export default async function StatePage({ params }: { params: Promise<{ slug: st
   const state = getStateBySlug(slug);
   if (!state) notFound();
 
-  const overview = getOverviewForState(rankingData, state.name);
-  const gesamt = overview["Gesamt"];
-  const indicators = rankingData.states[state.name];
+  const dataByYear = Object.fromEntries(
+    YEARS.map((year) => {
+      const data = rankingDataByYear[year];
+      return [
+        year,
+        {
+          overview: getOverviewForState(data, state.name),
+          indicators: data.states[state.name],
+        },
+      ];
+    })
+  ) as Record<Year, StateYearData>;
 
   return (
     <div className="container">
@@ -46,54 +54,9 @@ export default async function StatePage({ params }: { params: Promise<{ slug: st
         <h1 className="text-center">{state.name}</h1>
       )}
 
-      <p className={styles.overviewLabel}>Gesamt {gesamt.points}</p>
-      <div className={styles.overviewBar}>
-        <Bar value={gesamt.points} max={100} color={OVERVIEW_COLOR} label={`${gesamt.points}%`} />
-      </div>
-
-      <div className={styles.catWrapper}>
-        {CATEGORY_ORDER.map((category) => {
-          const cat = overview[category];
-          const value = Math.round((cat.points * 100) / cat.max);
-          return (
-            <div className={styles.catRow} key={category}>
-              <div>{category}</div>
-              <Bar
-                value={cat.points}
-                max={cat.max}
-                color={CATEGORY_COLORS[category]}
-                label={`${value}%`}
-              />
-            </div>
-          );
-        })}
-      </div>
-
-      <div className={styles.content} dangerouslySetInnerHTML={{ __html: state.bodyHtml }} />
-
-      {CATEGORY_ORDER.map((category) => {
-        const categoryIndicators = indicators.filter((i) => i.kategorie === category);
-        if (categoryIndicators.length === 0) return null;
-
-        const achieved = categoryIndicators.reduce((sum, i) => sum + i.erreichte_punkte, 0);
-        const max = categoryIndicators.reduce((sum, i) => sum + i.maximalpunkte, 0);
-
-        return (
-          <div className={styles.categorySection} key={category}>
-            <h2>{category}</h2>
-            <p className={styles.subinfo}>
-              {achieved} von {max} Punkten
-            </p>
-            {categoryIndicators.map((indicator) => (
-              <IndicatorRow
-                key={indicator.bezeichnung}
-                indicator={indicator}
-                color={CATEGORY_COLORS[category as CategoryName]}
-              />
-            ))}
-          </div>
-        );
-      })}
+      <StateYearView dataByYear={dataByYear}>
+        <div className={styles.content} dangerouslySetInnerHTML={{ __html: state.bodyHtml }} />
+      </StateYearView>
     </div>
   );
 }

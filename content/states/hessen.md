@@ -13,6 +13,8 @@ layout: state
 status: complete
 ---
 
-Im Jahr 2015 wurde in Hessen das [Gesetz über die Bezüge der Mitglieder der Landesregierung](https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-LRBezGHEV3P1) geändert und eine Karenzzeitregelung eingeführt. 
+Das sogenannte Lobbyregister des Landtages in Hessen kann nicht als solches angesehen werden. Es handelt sich um ein Verzeichnis ohne konkretere Angaben über Interessen und Mittel von Lobbyisten, ohne Regeln zur Interessenvertretung und Auslassung einer Vielzahl an Lobbyisten. Ein Fußabdruck existiert nicht.
 
-Die Pflicht zur Offenlegung der Nebeneinkünfte sowie der Spenden ist in Hessen an die ehemaligen [Verhaltensregeln](https://hessischer-landtag.de/verhaltensregeln-fuer-die-mitglieder-des-hessischen-landtages) des Bundes angelehnt. Die Offenlegungspflicht bezüglich einer Interessenverknüpfung bei der gesetzgeberischen Arbeit ist noch optimierbar. 
+<!-- Im Jahr 2015 wurde in Hessen das [Gesetz über die Bezüge der Mitglieder der Landesregierung](https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-LRBezGHEV3P1) geändert und eine Karenzzeitregelung eingeführt. 
+
+Die Pflicht zur Offenlegung der Nebeneinkünfte sowie der Spenden ist in Hessen an die ehemaligen [Verhaltensregeln](https://hessischer-landtag.de/verhaltensregeln-fuer-die-mitglieder-des-hessischen-landtages) des Bundes angelehnt. Die Offenlegungspflicht bezüglich einer Interessenverknüpfung bei der gesetzgeberischen Arbeit ist noch optimierbar.  -->

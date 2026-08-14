@@ -12,6 +12,9 @@ Verhaltensr_link: https://www.landtag-mv.de/fileadmin/Publikationen_PDF/Geschaef
 layout: state
 status: complete
 ---
-Die Landesregierung hat 2021 [Karenzeitregelungen](https://www.landesrecht-mv.de/bsmv/document/jlr-MinGMV2012V2P5a) verabschiedet. Die Karenzzeit ist dabei jedoch auf 12 Monate begrenzt, auch sind bei Verstößen keine Sanktionen vorgesehen. 
 
-Die [Verhaltensregeln](https://www.landesrecht-mv.de/bsmv/document/jlr-AbgGMV2007rahmen) haben Mängel bei der Pflicht, die Höhe der Nebeneinkünfte anzuzeigen. Auch fehlen Sanktionsmöglichkeit bei Pflichtverstößen. 
+Der Landtag in Mecklenburg-Vorpommern führt eine reine Verbändeliste anstelle eines Lobbyregisters – ohne konkretere Angaben über Interessen und Mittel von Lobbyisten, ohne Regeln zur Interessenvertretung und Auslassung einer Vielzahl an Lobbyisten. Ein Fußabdruck existiert nicht.
+
+<!-- Die Landesregierung hat 2021 [Karenzeitregelungen](https://www.landesrecht-mv.de/bsmv/document/jlr-MinGMV2012V2P5a) verabschiedet. Die Karenzzeit ist dabei jedoch auf 12 Monate begrenzt, auch sind bei Verstößen keine Sanktionen vorgesehen. 
+
+Die [Verhaltensregeln](https://www.landesrecht-mv.de/bsmv/document/jlr-AbgGMV2007rahmen) haben Mängel bei der Pflicht, die Höhe der Nebeneinkünfte anzuzeigen. Auch fehlen Sanktionsmöglichkeit bei Pflichtverstößen.  -->

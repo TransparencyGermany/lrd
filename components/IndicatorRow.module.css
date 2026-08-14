@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: 5fr 3fr 4fr;
   gap: 15px;
-  align-items: start;
+  align-items: center;
   font-family: var(--font-base);
   color: #515b66;
   font-size: 16px;
@@ -39,5 +39,4 @@
 
 .points {
   text-align: right;
-  padding-left: 60px;
 }

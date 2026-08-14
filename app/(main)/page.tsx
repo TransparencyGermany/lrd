@@ -1,19 +1,23 @@
 import DownloadIcon from "@/components/icons/DownloadIcon";
 import GermanyMap from "@/components/GermanyMap";
-import RankingExplorer from "@/components/RankingExplorer";
-import { rankingData } from "@/lib/data";
-import { buildRankingViews } from "@/lib/rankingViews";
+import YearlyRankingExplorer from "@/components/YearlyRankingExplorer";
+import { YEARS } from "@/lib/constants";
+import { rankingDataByYear } from "@/lib/data";
+import { buildRankingViews, type RankingView } from "@/lib/rankingViews";
 import { getAllStates } from "@/lib/states";
+import type { Year } from "@/lib/types";
 import styles from "./page.module.css";
 
 export default function HomePage() {
   const states = getAllStates();
-  const views = buildRankingViews(rankingData, states);
+  const viewsByYear = Object.fromEntries(
+    YEARS.map((year) => [year, buildRankingViews(rankingDataByYear[year], states)])
+  ) as Record<Year, RankingView[]>;
 
   return (
     <div className="container">
       <div className={styles.intro}>
-        <h1>Lobbyranking der Bundesländer 2024</h1>
+        <h1>Lobbyranking der Bundesländer 2026</h1>
         <p>
           Für unsere Demokratie ist die Transparenz und damit Nachvollziehbarkeit politischen
           Handelns unerlässlich. Um das Vertrauen in die demokratischen Institutionen und die
@@ -32,7 +36,7 @@ export default function HomePage() {
         </p>
       </div>
 
-      <RankingExplorer views={views}>
+      <YearlyRankingExplorer viewsByYear={viewsByYear}>
         <p className={styles.caption}>
           Balkendiagramm nach Gesamtergebnis sortiert. Stand der Erhebung: August 2024
         </p>
@@ -50,7 +54,7 @@ export default function HomePage() {
             <br /> pdf | &lt;1MB
           </a>
         </div>
-      </RankingExplorer>
+      </YearlyRankingExplorer>
 
       <div className={styles.analysis}>
         <p>

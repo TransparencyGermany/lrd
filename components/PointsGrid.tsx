@@ -16,12 +16,12 @@ export default function PointsGrid({ achieved, max, color }: PointsGridProps) {
     <svg height={20}>
       <g>
         {achievedSquares.map((i) => (
-          <rect key={`a-${i}`} width={10} height={10} x={i * 14} fill={color} />
+          <rect key={`a-${i}`} width={10} height={10} x={i * 14} y={5} fill={color} />
         ))}
       </g>
       <g>
         {greySquares.map((i) => (
-          <rect key={`g-${i}`} width={10} height={10} x={(i + 1) * 14} fill="grey" />
+          <rect key={`g-${i}`} width={10} height={10} x={(i + 1) * 14} y={5} fill="grey" />
         ))}
       </g>
     </svg>

@@ -1,0 +1,27 @@
+.toggle {
+  display: inline-flex;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.button {
+  height: 2.5em;
+  padding: 0 1.25em;
+  border: 1px solid var(--site-blue);
+  border-radius: 4px;
+  background: #fff;
+  color: var(--site-blue);
+  font-family: var(--font-base);
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.button:focus {
+  outline: none;
+}
+
+.active {
+  background: var(--site-blue);
+  color: #fff;
+}

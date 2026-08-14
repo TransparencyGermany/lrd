@@ -1,4 +1,8 @@
-import type { CategoryName } from "@/lib/types";
+import type { CategoryName, Year } from "@/lib/types";
+
+export const YEARS: Year[] = ["2024", "2026"];
+
+export const DEFAULT_YEAR: Year = "2026";
 
 export const CATEGORY_ORDER: CategoryName[] = [
   "Lobbyregister",
