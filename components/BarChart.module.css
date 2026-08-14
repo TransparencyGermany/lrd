@@ -1,0 +1,27 @@
+.svgContainer {
+  width: 100%;
+}
+
+.svgContentResponsive {
+  display: inline-block;
+  width: 100%;
+}
+
+.rowLink {
+  text-decoration: none;
+}
+
+.rowLabel {
+  fill: #112233;
+  font-size: 9pt;
+}
+
+.barValue {
+  transition: width 1s ease;
+}
+
+.barText {
+  font-size: 9pt;
+  fill: #000;
+  transition: x 1s ease;
+}

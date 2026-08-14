@@ -1,0 +1,28 @@
+.intro {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.caption {
+  margin-top: 20px;
+}
+
+.oldResults {
+  margin-top: 20px;
+}
+
+.oldResults a {
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.analysis {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.mapSection {
+  max-width: 960px;
+  margin: 0 auto;
+}

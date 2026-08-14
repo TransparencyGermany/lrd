@@ -1,0 +1,110 @@
+@charset "utf-8";
+
+@font-face {
+  font-family: "Helvetica Neue Condensed";
+  src:
+    url("/fonts/helvetica/946b2f3f-a9d7-47e4-9738-ee963004d697.woff2") format("woff2"),
+    url("/fonts/helvetica/ce90a9c3-4580-4fa7-b453-9a4e86d0c271.woff") format("woff"),
+    url("/fonts/helvetica/a621a6bf-fa40-4115-9f42-6ffb55c017e2.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Helvetica Neue Condensed";
+  src:
+    url("/fonts/helvetica/5f4620bc-98f7-4b13-9f90-3a54ea6a9c55.woff2") format("woff2"),
+    url("/fonts/helvetica/ac30e84e-cb19-4576-b6f9-491fccbd42ff.woff") format("woff"),
+    url("/fonts/helvetica/b583b782-0709-4a13-899f-7e9ab1a7eccd.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --font-base: "Helvetica Neue Condensed", sans-serif;
+  --text-color: #333333;
+  --font-blue: #112233;
+  --white: #ffffff;
+  --site-blue: #3695d8;
+  --shadow: 0 0 4px 0 rgba(128, 128, 128, 0.5);
+  --content-width: 800px;
+
+  /* category colors */
+  --color-lobbyregister: #ffe500;
+  --color-fussabdruck: #f7a600;
+  --color-karenzzeit: #596b01;
+  --color-verhaltensregeln: #9a0052;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+body,
+p {
+  font-family: var(--font-base);
+  color: var(--text-color);
+}
+
+p {
+  font-size: 21px;
+  line-height: 1.57;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: bold;
+  color: var(--font-blue);
+  margin: 80px 0 60px 0;
+}
+
+h2 {
+  font-family: var(--font-base);
+  color: var(--font-blue);
+  font-size: 35px;
+  padding: 10px 0;
+  margin-top: 50px;
+}
+
+h3 {
+  color: var(--font-blue);
+  margin-top: 50px;
+}
+
+a {
+  color: var(--site-blue);
+}
+
+ol {
+  margin: 20px;
+  font-family: Georgia, serif;
+  font-size: 21px;
+  line-height: 1.57;
+}
+
+ol li {
+  padding: 10px 0 0 0;
+}
+
+.container {
+  width: 100%;
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.text-center {
+  text-align: center;
+}

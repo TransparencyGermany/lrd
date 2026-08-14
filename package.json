@@ -1,29 +1,31 @@
 {
-  "name": "ifg-index",
+  "name": "lobbyranking",
   "version": "1.0.0",
-  "description": "",
-  "main": "build.js",
+  "private": true,
+  "description": "lobbyranking.de – Lobbyranking der Bundesländer, ein Projekt von Transparency Deutschland",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node build.js"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "fetch-data": "tsx scripts/fetch-data.ts"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/knutator2/ifg-index.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/knutator2/ifg-index/issues"
-  },
-  "homepage": "https://github.com/knutator2/ifg-index#readme",
   "dependencies": {
-    "js-yaml": "^3.7.0",
-    "jsonfile": "^2.4.0",
-    "lodash": "^4.17.19",
-    "tabletop": "^1.4.3",
-    "urlify": "^0.3.6",
-    "write-yaml": "^0.2.2",
-    "yamljs": "^0.2.8"
+    "d3-scale": "^4.0.2",
+    "gray-matter": "^4.0.3",
+    "marked": "^15.0.0",
+    "next": "^16.3.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/d3-scale": "^4.0.9",
+    "@types/node": "^22",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "eslint": "^9.18.0",
+    "eslint-config-next": "^16.3.1",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
   }
 }

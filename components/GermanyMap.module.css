@@ -1,0 +1,17 @@
+.feature {
+  fill: rgb(181, 193, 205);
+  pointer-events: all;
+}
+
+.feature:hover {
+  fill: #3695d8;
+}
+
+.feature path {
+  stroke: rgb(219, 222, 225);
+  stroke-width: 1px;
+}
+
+.stateLabel {
+  fill: #112233;
+}
