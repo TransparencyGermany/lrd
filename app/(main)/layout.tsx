@@ -6,12 +6,13 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { inter, sourceSerif4 } from "@/lib/fonts";
 import { getAllStates } from "@/lib/states";
+import { SITE_URL } from "@/lib/constants";
 import styles from "./layout.module.css";
 
 const DESCRIPTION = "lobbyranking.de vergleicht alle Lobbyregelungen Deutschlands";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://lobbyranking.de"),
+  metadataBase: new URL(SITE_URL),
   title: {
     default: "Integrität der handelnden Personen - Das Lobbyranking der Bundesländer",
     template: "%s - Lobbyranking der Bundesländer",
@@ -20,7 +21,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Lobbyranking",
     description: DESCRIPTION,
-    url: "https://lobbyranking.de",
+    url: SITE_URL,
     images: [{ url: "/img/logo__transparency.png", width: 462, height: 132 }],
   },
   twitter: {
