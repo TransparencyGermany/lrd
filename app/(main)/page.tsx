@@ -159,7 +159,6 @@ export default function HomePage() {
             },
             {
               title: "So wurde gewichtet",
-              titleColor: "var(--color-blue)",
               body: "Die vier Variablen flossen zu je einem Viertel in die Bewertung ein und haben jeweils eine Maximalpunktzahl von 50 Punkten. Die Variablen selbst bestehen aus verschiedenen Unterkategorien mit teils unterschiedlicher Gewichtung. Anhand fester Kriterien wurden die Unterkategorien der vier Bereiche bewertet. Die Bewertungsschemata für die einzelnen Unterkategorien finden Sie in der verlinkten Excel im Footer. Die Ergebnisse der einzelnen Kategorien können grafisch im Detail für jedes einzelne Bundesland auf den Länderseiten nachvollzogen werden. Weitere Informationen sowie den Datensatz mit den Rohdaten finden Sie im Footer verlinkt.",
             },
           ]}

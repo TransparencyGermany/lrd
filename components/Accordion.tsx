@@ -5,7 +5,6 @@ import styles from "./Accordion.module.css";
 
 type AccordionItem = {
   title: string;
-  titleColor?: string;
   body: string;
 };
 
@@ -44,7 +43,10 @@ export default function Accordion({ id, items }: AccordionProps) {
               className={styles.toggle}
               onClick={() => setOpen((prev) => ({ ...prev, [index]: !prev[index] }))}
             >
-              <h3 className={styles.title} style={{ color: item.titleColor }}>
+              <h3
+                className={styles.title}
+                style={{ color: isOpen ? "var(--color-blue)" : "var(--text-heading)" }}
+              >
                 {item.title}
               </h3>
               <span className={styles.icon}>{isOpen ? "−" : "+"}</span>
