@@ -76,6 +76,7 @@
 
 .oldResultLink:hover {
   background: var(--color-blue-hover);
+  color: #fff;
 }
 
 .mapSection {
