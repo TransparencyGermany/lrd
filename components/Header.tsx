@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
+import CaretIcon from "@/components/icons/CaretIcon";
 import { BUND_NAME } from "@/lib/constants";
 import type { StateMeta } from "@/lib/types";
 import styles from "./Header.module.css";
@@ -32,7 +33,7 @@ export default function Header({ states }: HeaderProps) {
 
   return (
     <header className={styles.header}>
-      <Link href="/">
+      <Link href="/" className={styles.logoLink}>
         <Image
           className={styles.logo}
           src="/img/logo.png"
@@ -41,32 +42,40 @@ export default function Header({ states }: HeaderProps) {
           height={85}
         />
       </Link>
-      <div className={styles.dropdown} ref={containerRef}>
-        <button
-          type="button"
-          className={styles.toggle}
-          aria-haspopup="true"
-          aria-expanded={open}
-          onClick={() => setOpen((o) => !o)}
-        >
-          Bundesland wählen
-          <span className={styles.caret} />
-        </button>
-        {open && (
-          <ul className={styles.menu}>
-            {bund && (
-              <li>
-                <Link href={`/laender/${bund.slug}/`}>{bund.name}</Link>
-              </li>
-            )}
-            <li className={styles.divider} role="separator" />
-            {rest.map((state) => (
-              <li key={state.slug}>
-                <Link href={`/laender/${state.slug}/`}>{state.name}</Link>
-              </li>
-            ))}
-          </ul>
-        )}
+
+      <div className={styles.right}>
+        <nav className={styles.nav}>
+          <Link href="/#methodik">Methodik</Link>
+          <a href="#ueber-uns">Über uns</a>
+        </nav>
+
+        <div className={styles.dropdown} ref={containerRef}>
+          <button
+            type="button"
+            className={styles.toggle}
+            aria-haspopup="true"
+            aria-expanded={open}
+            onClick={() => setOpen((o) => !o)}
+          >
+            Bundesland wählen
+            <CaretIcon direction={open ? "down" : "right"} />
+          </button>
+          {open && (
+            <ul className={styles.menu}>
+              {bund && (
+                <li>
+                  <Link href={`/laender/${bund.slug}/`}>{bund.name}</Link>
+                </li>
+              )}
+              <li className={styles.divider} role="separator" />
+              {rest.map((state) => (
+                <li key={state.slug}>
+                  <Link href={`/laender/${state.slug}/`}>{state.name}</Link>
+                </li>
+              ))}
+            </ul>
+          )}
+        </div>
       </div>
     </header>
   );

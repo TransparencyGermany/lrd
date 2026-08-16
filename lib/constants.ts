@@ -12,12 +12,20 @@ export const CATEGORY_ORDER: CategoryName[] = [
 ];
 
 export const CATEGORY_COLORS: Record<CategoryName, string> = {
-  Lobbyregister: "#ffe500",
-  "Legislativer Fußabdruck": "#f7a600",
-  Karenzzeit: "#596b01",
-  Verhaltensregeln: "#9a0052",
+  Lobbyregister: "#D6B32C",
+  "Legislativer Fußabdruck": "#D97B2C",
+  Karenzzeit: "#3F8F5F",
+  Verhaltensregeln: "#8E5FB8",
 };
 
-export const OVERVIEW_COLOR = "#3695D8";
+export const CATEGORY_TINTS: Record<CategoryName, string> = {
+  Lobbyregister: "#FBF4D6",
+  "Legislativer Fußabdruck": "#FBE7D6",
+  Karenzzeit: "#E4F1E9",
+  Verhaltensregeln: "#EEE5F5",
+};
+
+export const OVERVIEW_COLOR = "#3795D9";
+export const OVERVIEW_TINT = "#E1EAF5";
 
 export const BUND_NAME = "Bund";

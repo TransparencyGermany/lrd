@@ -1,25 +1,45 @@
 .header {
-  padding: 10px 30px;
+  padding: 24px 56px;
   display: flex;
-  justify-content: space-between;
   align-items: center;
+  justify-content: space-between;
+  gap: 16px;
   flex-wrap: wrap;
-  background: var(--site-blue);
+  background: var(--gradient-blue);
 }
 
-@media (max-width: 460px) {
-  .header {
-    justify-content: center;
-  }
-
-  .header img {
-    margin-bottom: 10px;
-  }
+.logoLink {
+  display: flex;
+  align-items: center;
 }
 
 .logo {
-  height: 50px;
+  height: 40px;
   width: auto;
+}
+
+.right {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+
+.nav {
+  display: flex;
+  gap: 28px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.nav a {
+  color: var(--tint-blue);
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.nav a:hover {
+  color: #fff;
 }
 
 .dropdown {
@@ -27,29 +47,22 @@
 }
 
 .toggle {
-  font-weight: bold;
-  font-size: 15px;
-  color: var(--font-blue);
-  box-shadow: var(--shadow);
-  padding: 15px;
-  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 13px;
+  color: var(--color-blue);
+  padding: 8px 14px;
   background: #fff;
   border: 0;
-  border-radius: 4px;
+  border-radius: var(--radius-pill);
   cursor: pointer;
   display: inline-flex;
   align-items: center;
+  gap: 8px;
+  font-family: var(--font-sans);
 }
 
-.caret {
-  margin-left: 10px;
-  margin-top: -1px;
-  display: inline-block;
-  width: 0;
-  height: 0;
-  border-left: 4px solid transparent;
-  border-right: 4px solid transparent;
-  border-top: 4px solid var(--font-blue);
+.toggle:focus {
+  outline: none;
 }
 
 .menu {
@@ -58,29 +71,51 @@
   right: 0;
   z-index: 1000;
   min-width: 220px;
-  margin-top: 4px;
-  padding: 5px 0;
+  margin-top: 8px;
+  padding: 6px 0;
   list-style: none;
   background: #fff;
-  box-shadow: var(--shadow);
-  border-radius: 2px;
+  box-shadow: var(--shadow-card);
+  border-radius: var(--radius-card);
 }
 
 .menu li a {
   display: block;
   padding: 8px 20px;
-  color: var(--text-color);
+  color: var(--text-body);
   text-decoration: none;
-  font-family: var(--font-base);
+  font-family: var(--font-sans);
+  font-size: 14px;
 }
 
 .menu li a:hover {
-  background: #f0f6ff;
+  background: var(--surface-hover);
 }
 
 .divider {
   height: 1px;
   margin: 5px 0;
   overflow: hidden;
-  background-color: #e5e5e5;
+  background-color: var(--border-color);
+}
+
+@media (max-width: 700px) {
+  .header {
+    padding: 16px 24px;
+  }
+
+  .right {
+    gap: 12px;
+  }
+
+  .nav {
+    gap: 16px;
+  }
+}
+
+@media (max-width: 460px) {
+  .header {
+    justify-content: center;
+    text-align: center;
+  }
 }

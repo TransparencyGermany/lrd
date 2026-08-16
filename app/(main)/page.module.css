@@ -1,28 +1,140 @@
-.intro {
-  max-width: 900px;
-  margin: 0 auto;
-  text-align: center;
+.narrative {
+  padding: 8px 56px 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  max-width: 840px;
 }
 
-.caption {
-  margin-top: 20px;
+.narrativeIntro {
+  font-size: 16px;
+  line-height: 1.75;
+  color: var(--text-body);
+  margin: 0;
+}
+
+.kickerGrid,
+.kickerGrid2 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 28px 36px;
+}
+
+.kickerGrid2 {
+  margin-top: 8px;
+}
+
+.kicker {
+  font-family: var(--font-sans);
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--color-blue);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin: 0 0 10px;
+}
+
+.kickerBody {
+  font-size: 14.5px;
+  line-height: 1.7;
+  color: var(--text-body);
+  margin: 0;
 }
 
 .oldResults {
-  margin-top: 20px;
+  padding-top: 22px;
+  border-top: 1px solid var(--border-color);
 }
 
-.oldResults a {
-  display: inline-block;
-  margin-top: 10px;
+.oldResultsLabel {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--text-muted);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  margin: 0 0 14px;
 }
 
-.analysis {
-  max-width: 800px;
-  margin: 0 auto;
+.oldResultsLinks {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.oldResultLink {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 11px 18px;
+  border-radius: var(--radius-card);
+  color: #fff;
+  font-size: 13.5px;
+  font-weight: 700;
+  text-decoration: none;
+  background: var(--color-blue);
+}
+
+.oldResultLink:hover {
+  background: var(--color-blue-hover);
 }
 
 .mapSection {
-  max-width: 960px;
-  margin: 0 auto;
+  padding: 64px 56px;
+  background: var(--gradient-blue);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.mapHeading {
+  font-size: 30px;
+  text-align: center;
+  margin: 0 0 36px;
+  color: #fff;
+}
+
+.mapInner {
+  max-width: 880px;
+  width: 100%;
+}
+
+.whySection {
+  padding: 56px 56px;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  max-width: 900px;
+}
+
+.whyIntro {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.whyIntro h2 {
+  margin: 0;
+  font-size: 26px;
+}
+
+.body {
+  font-size: 15px;
+  line-height: 1.75;
+  color: var(--text-body);
+  margin: 0;
+}
+
+@media (max-width: 700px) {
+  .narrative,
+  .mapSection,
+  .whySection {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+
+  .kickerGrid,
+  .kickerGrid2 {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
 }

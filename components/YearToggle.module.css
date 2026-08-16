@@ -1,27 +1,27 @@
 .toggle {
   display: inline-flex;
-  gap: 8px;
-  margin-bottom: 20px;
+  background: var(--surface-track);
+  border-radius: var(--radius-pill);
+  padding: 4px;
+  gap: 2px;
 }
 
 .button {
-  height: 2.5em;
-  padding: 0 1.25em;
-  border: 1px solid var(--site-blue);
-  border-radius: 4px;
-  background: #fff;
-  color: var(--site-blue);
-  font-family: var(--font-base);
-  font-size: 15px;
-  font-weight: bold;
+  padding: 8px 22px;
+  border-radius: var(--radius-pill);
+  font-size: 13px;
+  font-weight: 700;
+  font-family: var(--font-sans);
+  border: 0;
+  background: transparent;
+  color: var(--text-muted);
   cursor: pointer;
-}
-
-.button:focus {
-  outline: none;
+  transition:
+    background 0.15s,
+    color 0.15s;
 }
 
 .active {
-  background: var(--site-blue);
+  background: var(--color-blue);
   color: #fff;
 }

@@ -1,7 +1,3 @@
-"use client";
-
-import { useState } from "react";
-import CaretIcon from "@/components/icons/CaretIcon";
 import PointsGrid from "@/components/PointsGrid";
 import type { Indicator } from "@/lib/types";
 import styles from "./IndicatorRow.module.css";
@@ -9,40 +5,49 @@ import styles from "./IndicatorRow.module.css";
 type IndicatorRowProps = {
   indicator: Indicator;
   color: string;
+  tint: string;
+  open: boolean;
+  onToggle: () => void;
 };
 
-// Ports the per-indicator accordion row from _layouts/state.html. Replaces jQuery's
-// slideToggle with a CSS grid-rows (0fr -> 1fr) transition, so no JS height measurement
-// is needed.
-export default function IndicatorRow({ indicator, color }: IndicatorRowProps) {
-  const [open, setOpen] = useState(false);
-
+// Ports the per-indicator accordion row from _layouts/state.html. Collapsed row shows
+// just the title + a point-pill badge; squares/Erklärung/Ergebnis only render once
+// expanded (previously the point-squares were always visible in the row).
+export default function IndicatorRow({ indicator, color, tint, open, onToggle }: IndicatorRowProps) {
   return (
     <div className={styles.row}>
-      <div>
-        <dt className={styles.term} onClick={() => setOpen((o) => !o)}>
-          {indicator.bezeichnung}
-          <CaretIcon direction={open ? "down" : "right"} />
-        </dt>
-        <div className={`${styles.ddWrapper} ${open ? styles.open : ""}`}>
-          <dd className={styles.dd}>
-            <strong>Erklärung: </strong>
-            {indicator.hintergrund}
-            {indicator.erklaerung && (
-              <>
-                <br />
-                <br />
-                <strong>Ergebnis: </strong>
-                {indicator.erklaerung}
-              </>
-            )}
-          </dd>
+      <button type="button" className={styles.header} onClick={onToggle}>
+        <h3 className={styles.title}>{indicator.bezeichnung}</h3>
+        <div className={styles.meta}>
+          <span className={styles.pointsBadge} style={{ color, background: tint }}>
+            {indicator.erreichte_punkte} / {indicator.maximalpunkte}
+          </span>
+          <span className={styles.icon}>{open ? "−" : "+"}</span>
         </div>
-      </div>
-      <div className={styles.points}>
-        {indicator.erreichte_punkte} von {indicator.maximalpunkte}
-      </div>
-      <PointsGrid achieved={indicator.erreichte_punkte} max={indicator.maximalpunkte} color={color} />
+      </button>
+      {open && (
+        <div className={styles.body}>
+          <PointsGrid
+            achieved={indicator.erreichte_punkte}
+            max={indicator.maximalpunkte}
+            color={color}
+          />
+          <div>
+            <p className={styles.label} style={{ color }}>
+              Erklärung
+            </p>
+            <p className={styles.text}>{indicator.hintergrund}</p>
+          </div>
+          {indicator.erklaerung && (
+            <div>
+              <p className={styles.label} style={{ color }}>
+                Ergebnis
+              </p>
+              <p className={styles.text}>{indicator.erklaerung}</p>
+            </div>
+          )}
+        </div>
+      )}
     </div>
   );
 }

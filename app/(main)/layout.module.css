@@ -1,0 +1,19 @@
+.canvas {
+  background: var(--surface-canvas);
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  width: 100%;
+  max-width: 2000px;
+  background: var(--surface-card);
+  box-shadow: var(--shadow-card);
+  overflow: hidden;
+}
+
+@media (max-width: 500px) {
+  .card {
+    box-shadow: none;
+  }
+}

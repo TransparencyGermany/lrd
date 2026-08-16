@@ -1,22 +1,12 @@
-.barContainer {
-  width: 100%;
-}
-
 .track {
-  fill: rgb(233, 234, 238);
-}
-
-.cap {
-  fill: rgb(154, 169, 184);
+  width: 100%;
+  background: var(--surface-track);
+  border-radius: var(--radius-pill);
+  overflow: hidden;
 }
 
 .value {
-  transition:
-    width 1s ease,
-    x 1s ease;
-}
-
-.text {
-  transition: x 1s ease;
-  fill: #000;
+  height: 100%;
+  border-radius: var(--radius-pill);
+  transition: width 0.6s ease;
 }

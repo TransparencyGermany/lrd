@@ -1,43 +1,192 @@
+.landHeader {
+  padding: 48px 56px 32px;
+  position: relative;
+  overflow: hidden;
+  transition: background 0.2s;
+}
+
+.watermark {
+  position: absolute;
+  top: -40px;
+  right: 20px;
+  width: 280px;
+  height: 280px;
+  opacity: 0.14;
+  pointer-events: none;
+}
+
+.kicker {
+  font-family: var(--font-sans);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  margin: 0 0 10px;
+  position: relative;
+}
+
+.title {
+  font-size: 44px;
+  margin: 0;
+  position: relative;
+}
+
+.overview {
+  padding: 32px 56px 0;
+}
+
 .yearToggle {
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
+  margin-bottom: 20px;
 }
 
-.overviewLabel {
-  text-align: center;
+.bigScore {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 6px 14px;
+  margin-bottom: 20px;
 }
 
-.overviewBar {
-  max-width: 500px;
-  margin: 0 auto;
+.bigNumber {
+  font-family: var(--font-sans);
+  font-size: 56px;
+  font-weight: 800;
+  color: var(--color-blue);
+  line-height: 1;
 }
 
-.catWrapper {
-  margin: 7em 0;
+.bigLabel {
+  font-size: 16px;
+  color: var(--text-muted-2);
+}
+
+.overallBar {
+  margin-bottom: 28px;
+}
+
+.catSummaries {
+  padding-left: 28px;
+  border-left: 2px solid var(--border-color);
   display: flex;
   flex-direction: column;
-  gap: 1.5em;
-  max-width: 500px;
-  margin-left: auto;
-  margin-right: auto;
+  gap: 14px;
+}
+
+.summaryLabel {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--text-muted);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  margin: 0;
 }
 
 .catRow {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 180px 1fr 70px;
   align-items: center;
-  gap: 15px;
+  gap: 14px;
+  cursor: pointer;
+  padding: 8px 10px;
+  margin: 0 -10px;
+  border-radius: var(--radius-card);
+  background: none;
+  border: 0;
+  width: calc(100% + 20px);
+  text-align: left;
+  font-family: var(--font-sans);
+  transition: background 0.15s;
 }
 
-.categorySection {
-  max-width: 800px;
-  margin: 0 auto;
+.catRow:hover {
+  background: var(--surface-hover);
 }
 
-.subinfo {
-  font-family: var(--font-base);
-  color: #515b66;
-  font-size: 18px;
-  font-weight: bold;
-  margin-top: 20px;
+.catLabel {
+  font-size: 13.5px;
+  color: var(--text-heading);
+}
+
+.catScore {
+  font-size: 12.5px;
+  color: var(--text-muted);
+  font-weight: 600;
+  text-align: right;
+}
+
+.indicators {
+  padding: 48px 56px 56px;
+}
+
+.indicatorsHeading {
+  font-size: 22px;
+  margin: 0 0 20px;
+}
+
+.tabs {
+  display: flex;
+  gap: 32px;
+  border-bottom: 1px solid var(--border-color);
+  margin-bottom: 28px;
+  overflow-x: auto;
+}
+
+.tab {
+  padding: 0 0 16px;
+  font-size: 14px;
+  font-family: var(--font-sans);
+  color: var(--text-muted);
+  background: none;
+  border: 0;
+  border-bottom: 2px solid transparent;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.tab:hover {
+  color: var(--text-heading);
+}
+
+.narrative {
+  margin-bottom: 28px;
+}
+
+.narrative :global(p) {
+  margin: 0 0 16px;
+  font-size: 15px;
+  line-height: 1.75;
+  color: var(--text-body);
+}
+
+.indicatorList {
+  display: flex;
+  flex-direction: column;
+}
+
+@media (max-width: 700px) {
+  .landHeader,
+  .overview,
+  .indicators {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+
+  .watermark {
+    display: none;
+  }
+
+  .title {
+    font-size: 32px;
+  }
+
+  .bigNumber {
+    font-size: 40px;
+  }
+
+  .catRow {
+    grid-template-columns: 110px 1fr 56px;
+    gap: 8px;
+  }
 }

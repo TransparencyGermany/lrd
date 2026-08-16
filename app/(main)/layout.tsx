@@ -1,9 +1,12 @@
 import type { Metadata } from "next";
 import type { ReactNode } from "react";
 import "@/app/globals.css";
+import AboutSection from "@/components/AboutSection";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import { inter, sourceSerif4 } from "@/lib/fonts";
 import { getAllStates } from "@/lib/states";
+import styles from "./layout.module.css";
 
 const DESCRIPTION = "lobbyranking.de vergleicht alle Lobbyregelungen Deutschlands";
 
@@ -32,11 +35,16 @@ export default function MainLayout({ children }: { children: ReactNode }) {
   const states = getAllStates();
 
   return (
-    <html lang="de">
+    <html lang="de" className={`${inter.variable} ${sourceSerif4.variable}`}>
       <body>
-        <Header states={states} />
-        {children}
-        <Footer />
+        <div className={styles.canvas}>
+          <div className={styles.card}>
+            <Header states={states} />
+            {children}
+            <AboutSection />
+            <Footer />
+          </div>
+        </div>
       </body>
     </html>
   );

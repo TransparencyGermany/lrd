@@ -1,9 +1,10 @@
-import YearlyRankingExplorer from "@/components/YearlyRankingExplorer";
+import { Suspense } from "react";
 import { YEARS } from "@/lib/constants";
 import { rankingDataByYear } from "@/lib/data";
 import { buildRankingViews, type RankingView } from "@/lib/rankingViews";
 import { getAllStates } from "@/lib/states";
 import type { Year } from "@/lib/types";
+import EmbedExplorer from "./EmbedExplorer";
 
 export default function EmbedPage() {
   const states = getAllStates();
@@ -13,7 +14,9 @@ export default function EmbedPage() {
 
   return (
     <div className="container">
-      <YearlyRankingExplorer viewsByYear={viewsByYear} />
+      <Suspense fallback={null}>
+        <EmbedExplorer viewsByYear={viewsByYear} />
+      </Suspense>
     </div>
   );
 }

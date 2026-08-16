@@ -35,6 +35,7 @@ export function buildRankingViews(data: RankingData, states: StateMeta[]): Ranki
       category: "Gesamt",
       label: "Gesamt",
       color: OVERVIEW_COLOR,
+      info: "zeigt das Gesamtergebnis aus allen vier Kategorien: Lobbyregister, legislativer Fußabdruck, Karenzzeit und Verhaltensregeln.",
       data: toRows(getOverviewValues(data)),
     },
   ];

@@ -1,0 +1,60 @@
+.hero {
+  padding: 64px 56px 40px;
+  background: var(--tint-blue);
+}
+
+.inner {
+  max-width: 760px;
+}
+
+.badge {
+  display: inline-block;
+  background: var(--color-blue);
+  color: #fff;
+  font-size: 13px;
+  font-weight: 700;
+  padding: 5px 12px;
+  border-radius: var(--radius-pill);
+  margin-bottom: 20px;
+}
+
+.heading {
+  font-size: 52px;
+  line-height: 1.08;
+  margin: 0 0 20px;
+}
+
+.intro {
+  font-size: 17px;
+  line-height: 1.65;
+  color: var(--text-body);
+  margin: 0 0 28px;
+}
+
+.select {
+  appearance: none;
+  background: var(--color-blue);
+  color: #fff;
+  border: none;
+  padding: 14px 20px;
+  border-radius: var(--radius-card);
+  font-size: 15px;
+  font-weight: 600;
+  font-family: var(--font-sans);
+  cursor: pointer;
+  max-width: 100%;
+}
+
+@media (max-width: 700px) {
+  .hero {
+    padding: 40px 24px 32px;
+  }
+
+  .heading {
+    font-size: 36px;
+  }
+
+  .intro {
+    font-size: 15.5px;
+  }
+}

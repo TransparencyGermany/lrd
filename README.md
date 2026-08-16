@@ -27,6 +27,9 @@ This produces a fully static site in `out/`, ready to deploy to any static host.
 
 ## Updating the ranking data
 
+Currently Data is updated by adding a data_YEAR.json file to /data. There is another way to update Data via Google sheets but in order to do so Data would have to be correctly stored there first.
+
+
 The ranking data lives in a Google Sheet and is pulled into `data/data.json` on
 demand — it is **not** fetched automatically as part of `npm run build`, so builds
 never depend on Google Sheets being reachable. To refresh it after the sheet has

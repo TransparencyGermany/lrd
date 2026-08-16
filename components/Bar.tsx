@@ -8,14 +8,13 @@ type BarProps = {
   value: number;
   max?: number;
   color: string;
-  label: string;
+  height?: number;
 };
 
-const HEIGHT = 26;
-
-// Ports static/js/directives/bar.js's single progress bar. D3 is used only for the
-// scaleLinear math; React owns every DOM node (no D3-driven .enter()/.transition()).
-export default function Bar({ value, max = 100, color, label }: BarProps) {
+// Ports static/js/directives/bar.js's single progress bar as a plain pill (track +
+// filled div) instead of an <svg> — the redesign draws bar labels as separate DOM
+// text next to the bar, so the bar itself no longer needs to lay out text internally.
+export default function Bar({ value, max = 100, color, height = 12 }: BarProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const [width, setWidth] = useState(0);
   const [grown, setGrown] = useState(false);
@@ -38,26 +37,10 @@ export default function Bar({ value, max = 100, color, label }: BarProps) {
 
   const xscale = scaleLinear().domain([0, max]).range([0, width]);
   const barWidth = grown ? xscale(value) : 0;
-  const remaining = xscale(max) - barWidth;
-  const textX = remaining > 50 ? barWidth + 10.5 : barWidth - 35;
 
   return (
-    <div ref={containerRef} className={styles.barContainer}>
-      <svg width={width} height={HEIGHT}>
-        <rect className={styles.track} x={0} y={0} width={width} height={HEIGHT} />
-        <rect className={styles.cap} x={Math.max(width - 2, 0)} y={0} width={2} height={HEIGHT} />
-        <rect
-          className={styles.value}
-          x={0}
-          y={0}
-          width={barWidth}
-          height={HEIGHT}
-          style={{ fill: color }}
-        />
-        <text className={styles.text} x={textX} y={18}>
-          {label}
-        </text>
-      </svg>
+    <div ref={containerRef} className={styles.track} style={{ height }}>
+      <div className={styles.value} style={{ width: barWidth, background: color }} />
     </div>
   );
 }

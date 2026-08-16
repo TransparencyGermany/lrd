@@ -1,29 +1,27 @@
+import styles from "./PointsGrid.module.css";
+
 type PointsGridProps = {
   achieved: number;
   max: number;
   color: string;
 };
 
-// Ports the dot-grid from _layouts/state.html: achieved squares are 1-indexed with a
-// 14px left gutter (x = i*14 for i in 1..achieved), and the grey squares continue
-// seamlessly from there (x = (i+1)*14 for i in achieved..max-1). No width/viewBox is
-// set on the <svg>, matching the original exactly (it relies on the browser default).
+// Small point-squares, capped at 10 even when maximalpunkte is higher — the squares are
+// a proportional visual, not a literal one-per-point tally.
 export default function PointsGrid({ achieved, max, color }: PointsGridProps) {
-  const achievedSquares = Array.from({ length: Math.max(achieved, 0) }, (_, idx) => idx + 1);
-  const greySquares = Array.from({ length: Math.max(max - achieved, 0) }, (_, idx) => achieved + idx);
+  if (max <= 0) return null;
+  const squareCount = Math.min(max, 10);
+  const filledCount = Math.round((achieved / max) * squareCount);
 
   return (
-    <svg height={20}>
-      <g>
-        {achievedSquares.map((i) => (
-          <rect key={`a-${i}`} width={10} height={10} x={i * 14} y={5} fill={color} />
-        ))}
-      </g>
-      <g>
-        {greySquares.map((i) => (
-          <rect key={`g-${i}`} width={10} height={10} x={(i + 1) * 14} y={5} fill="grey" />
-        ))}
-      </g>
-    </svg>
+    <div className={styles.grid}>
+      {Array.from({ length: squareCount }, (_, i) => (
+        <span
+          key={i}
+          className={styles.square}
+          style={{ background: i < filledCount ? color : "var(--point-empty)" }}
+        />
+      ))}
+    </div>
   );
 }
