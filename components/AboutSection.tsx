@@ -26,7 +26,7 @@ export default function AboutSection() {
               </a>
               <a href="/files/Der_Datensatz_13.08.24.xlsx">
                 <DownloadIcon />
-                Der Ranking Datensatz (excel)
+                Der 2026 Ranking Datensatz (excel)
               </a>
             </div>
           </div>

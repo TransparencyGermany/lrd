@@ -59,9 +59,9 @@ export default function StateYearView({
     setOpenIndicators({ 0: true });
   }
 
-  function selectFromSummary(next: CategoryName, count: number) {
+  function selectFromSummary(next: CategoryName) {
     setCat(next);
-    setOpenIndicators(Object.fromEntries(Array.from({ length: count }, (_, i) => [i, true])));
+    setOpenIndicators({ 0: true });
     scrollToIndicators();
   }
 
@@ -98,14 +98,13 @@ export default function StateYearView({
           {CATEGORY_ORDER.map((category) => {
             const c = overview[category];
             const isActive = category === cat;
-            const count = indicators.filter((i) => i.kategorie === category).length;
             return (
               <button
                 type="button"
                 key={category}
                 className={styles.catRow}
                 style={{ background: isActive ? CATEGORY_TINTS[category] : undefined }}
-                onClick={() => selectFromSummary(category, count)}
+                onClick={() => selectFromSummary(category)}
               >
                 <span
                   className={styles.catLabel}

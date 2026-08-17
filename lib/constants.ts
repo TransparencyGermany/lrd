@@ -16,14 +16,14 @@ export const CATEGORY_ORDER: CategoryName[] = [
 export const CATEGORY_COLORS: Record<CategoryName, string> = {
   Lobbyregister: "#D6B32C",
   "Legislativer Fußabdruck": "#D97B2C",
-  Karenzzeit: "#30B565",
+  Karenzzeit: "#207944",
   Verhaltensregeln: "#8C42CD",
 };
 
 export const CATEGORY_TINTS: Record<CategoryName, string> = {
   Lobbyregister: "#FBF4D6",
   "Legislativer Fußabdruck": "#FBE7D6",
-  Karenzzeit: "#E4F1E9",
+  Karenzzeit: "#DFF1E6",
   Verhaltensregeln: "#EEE5F5",
 };
 

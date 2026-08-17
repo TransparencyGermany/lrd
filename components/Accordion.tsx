@@ -17,7 +17,7 @@ type AccordionProps = {
 // methodology accordion. When `id` matches the page's #hash on mount, force every item
 // open and smooth-scroll here, so Header's cross-page "Methodik" link works from any page.
 export default function Accordion({ id, items }: AccordionProps) {
-  const [open, setOpen] = useState<Record<number, boolean>>({ 0: true });
+  const [open, setOpen] = useState<Record<number, boolean>>({});
 
   useEffect(() => {
     if (!id || window.location.hash !== `#${id}`) return;
