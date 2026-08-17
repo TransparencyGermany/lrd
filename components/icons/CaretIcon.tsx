@@ -20,7 +20,14 @@ export default function CaretIcon({ direction = "right", className }: CaretIconP
       }}
       aria-hidden="true"
     >
-      <path d="M1 0 L9 5 L1 10 Z" fill="currentColor" />
+      <path
+        d="M2 1 L7.5 5 L2 9"
+        fill="none"
+        stroke="currentColor"
+        strokeWidth="1.6"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
     </svg>
   );
 }
