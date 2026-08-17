@@ -125,30 +125,31 @@ export default function HomePage() {
             Auf Länderebene hatte sich bis 2021 bei den Integritätsregeln wenig getan. Die
             Arbeitsgruppe Politik von Transparency Deutschland sah sich daher in der Verantwortung,
             eine umfassende vergleichende Untersuchung durchzuführen und die Ergebnisse zu
-            veröffentlichen. Zweck der Bemühungen war und ist es, die Öffentlichkeit in dieser für
-            das Gemeinwohl sehr bedeutsamen Angelegenheit zu sensibilisieren sowie bei den
-            verantwortlichen politischen Entscheidungstragenden ein Bewusstsein für die
-            Notwendigkeit möglichst schneller und einheitlicher regulatorischer Änderungen zu
-            schaffen.
+            veröffentlichen. Ziel der Untersuchung war und ist es, die Öffentlichkeit für 
+            diese für das Gemeinwohl bedeutsame Thematik zu sensibilisieren und bei den verantwortlichen 
+            politischen Entscheidungstragenden das Bewusstsein für die Notwendigkeit möglichst schneller 
+            und einheitlicher regulatorischer Änderungen zu stärken.
           </p>
           <div className={styles.kickerGrid2}>
             <div>
               <h3 className={styles.kicker}>Seit 2021 im Einsatz</h3>
               <p className={styles.kickerBody}>
-                Erstmalig wurde mit dem Lobbyranking 2021 am 11. März 2021 in leicht
-                verständlicher und transparenter Form für jedes einzelne Bundesland ermittelt, ob
-                und falls ja, in welchem Umfang in den vier genannten Gebieten Regeln existieren
-                und welchen genauen Inhalt sie haben. Gerade auf dem Hintergrund aktueller
-                Entwicklungen, die von bröckelndem Vertrauen in die demokratischen Institutionen
-                bis hin zu Radikalisierungstendenzen reichen, gewinnen moderne Transparenz- und
-                Integritätsregeln weiter zunehmend an Bedeutung.
+                Mit dem Lobbyranking 2021 hat Transparency Deutschland erstmals die Transparenz- 
+                und Integritätsregeln aller 16 Bundesländer in leicht verständlicher und transparenter
+                 Form vergleichend erfasst und bewertet. Untersucht wurde, ob und in welchem Umfang in
+                  den vier Bewertungsbereichen Regeln bestehen und wie diese konkret ausgestaltet sind. 
+                  Gerade vor dem Hintergrund aktueller Entwicklungen – von schwindendem Vertrauen in
+                   demokratische Institutionen bis hin zu Radikalisierungstendenzen – gewinnen moderne
+                    Transparenz- und Integritätsregeln weiter an Bedeutung.
               </p>
             </div>
             <div>
               <h3 className={styles.kicker}>Aktualisierungen</h3>
               <p className={styles.kickerBody}>
-                Die Webseite www.lobbyranking.de wurde am 11. März 2021 erstmals veröffentlicht
-                und am 10. März 2022 sowie am 13. August 2024 aktualisiert.
+                Seit der Erstveröffentlichung am 11. März 2021 aktualisiert Transparency Deutschland das
+                 Lobbyranking regelmäßig, um die Entwicklungen der Transparenz- und Integritätsregeln in
+                  den Bundesländern nachzuverfolgen und sichtbar zu machen. Die bisherigen Aktualisierungen
+                   erfolgten am 10. März 2022 sowie am 13. August 2024.
               </p>
             </div>
           </div>
