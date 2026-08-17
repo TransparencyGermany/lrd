@@ -1,5 +1,6 @@
 .landHeader {
   padding: 48px 0 32px;
+  overflow: hidden;
   transition: background 0.2s;
 }
 
@@ -8,15 +9,14 @@
   margin: 0 auto;
   padding: 0 56px;
   position: relative;
-  overflow: hidden;
 }
 
 .watermark {
   position: absolute;
-  top: -40px;
+  top: -25px;
   right: 20px;
-  width: 280px;
-  height: 280px;
+  width: 240px;
+  height: 120px;
   opacity: 0.14;
   pointer-events: none;
 }
