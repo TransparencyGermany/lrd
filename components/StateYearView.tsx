@@ -120,13 +120,22 @@ export default function StateYearView({
                   height={isActive ? 13 : 9}
                 />
                 <span className={styles.catScore}>
-                  {c.points} / {c.max}
+                  {c.max > 0 ? Math.round((c.points / c.max) * 100) : 0}%
                 </span>
               </button>
             );
           })}
         </div>
       </div>
+
+      {children && (
+        <div className={styles.descriptionSection}>
+          <div className={styles.narrative}>
+            <h2 className={styles.indicatorsHeading}>Beschreibung</h2>
+            {children}
+          </div>
+        </div>
+      )}
 
       <div id="indicators-section" className={styles.indicators}>
         <h2 className={styles.indicatorsHeading}>Bewertete Indikatoren</h2>
@@ -167,13 +176,6 @@ export default function StateYearView({
             />
           ))}
         </div>
-
-        {children && (
-          <div className={styles.narrative}>
-            <h2 className={styles.indicatorsHeading}>Beschreibung</h2>
-            {children}
-          </div>
-        )}
       </div>
     </div>
   );

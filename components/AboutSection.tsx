@@ -49,9 +49,8 @@ export default function AboutSection() {
               gemeinnützigen Vereins Transparency International Deutschland e.V.. Der Quellcode
               wurde uns dankenswerterweise von der Open Knowledge Foundation Deutschland e.V. und
               Mehr Demokratie e.V. zur Verfügung gestellt. Er ist zu finden{" "}
-              <a href="https://github.com/TransparencyGermany/lrd">auf Github</a>. Verwendete
-              Tools sind CartoDB, QGis und Gephi, die Frameworks Next.js und React sowie die
-              Scriptsprachen TypeScript, R und JavaScript.
+              <a href="https://github.com/TransparencyGermany/lrd">auf Github</a>. Die Seite ist
+              mit dem Framework Next.js (React) und der Sprache TypeScript umgesetzt.
             </p>
           </div>
         </div>

@@ -130,6 +130,12 @@
   padding: 48px 56px 56px;
 }
 
+.descriptionSection {
+  max-width: var(--module-width);
+  margin: 0 auto;
+  padding: 48px 56px 0;
+}
+
 .indicatorsHeading {
   font-size: 22px;
   margin: 0 0 20px;
@@ -187,7 +193,8 @@
 @media (max-width: 700px) {
   .landHeaderInner,
   .overview,
-  .indicators {
+  .indicators,
+  .descriptionSection {
     padding-left: 24px;
     padding-right: 24px;
   }
