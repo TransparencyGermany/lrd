@@ -1,7 +1,5 @@
-"use client";
-
-import { useRouter } from "next/navigation";
-import { BUND_NAME, DEFAULT_YEAR } from "@/lib/constants";
+import StatePicker from "@/components/StatePicker";
+import { DEFAULT_YEAR } from "@/lib/constants";
 import type { StateMeta } from "@/lib/types";
 import styles from "./Hero.module.css";
 
@@ -10,11 +8,6 @@ type HeroProps = {
 };
 
 export default function Hero({ states }: HeroProps) {
-  const router = useRouter();
-  const sortedStates = [...states]
-    .filter((s) => s.name !== BUND_NAME)
-    .sort((a, b) => a.name.localeCompare(b.name, "de"));
-
   return (
     <div className={styles.hero}>
       <div className={styles.inner}>
@@ -36,22 +29,7 @@ export default function Hero({ states }: HeroProps) {
           Unsere interaktive Webseite ermöglicht Ihnen, nach den Themenfeldern sowie nach den
           Bundesländern zu filtern und sich mit den Details der Regelungen vertraut zu machen.
         </p>
-        <select
-          className={styles.select}
-          defaultValue=""
-          onChange={(e) => {
-            if (e.target.value) router.push(`/laender/${e.target.value}/`);
-          }}
-        >
-          <option value="" disabled>
-            Bundesland wählen …
-          </option>
-          {sortedStates.map((state) => (
-            <option key={state.slug} value={state.slug}>
-              {state.name}
-            </option>
-          ))}
-        </select>
+        <StatePicker states={states} menuAlign="left" variant="dark" />
       </div>
     </div>
   );

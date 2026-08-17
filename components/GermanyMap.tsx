@@ -32,7 +32,7 @@ export default function GermanyMap({ data }: GermanyMapProps) {
       <svg
         className={styles.map}
         width="100%"
-        viewBox="100 0 700 550"
+        viewBox="100 0 700 511"
         style={{ display: "block", margin: "0 auto" }}
       >
         <g>

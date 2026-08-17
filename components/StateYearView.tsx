@@ -68,15 +68,17 @@ export default function StateYearView({
   return (
     <div key={year}>
       <div className={styles.landHeader} style={{ background: activeTint }}>
-        <div className={styles.watermark}>
-          <StateShape name={stateName} color={activeColor} />
+        <div className={styles.landHeaderInner}>
+          <div className={styles.watermark}>
+            <StateShape name={stateName} color={activeColor} />
+          </div>
+          <p className={styles.kicker} style={{ color: activeColor }}>
+            Lobbyranking {year} · Bundesland im Detail
+          </p>
+          <h1 className={styles.title} style={{ color: draft ? "#c0392b" : undefined }}>
+            {displayName ?? stateName}
+          </h1>
         </div>
-        <p className={styles.kicker} style={{ color: activeColor }}>
-          Lobbyranking {year} · Bundesland im Detail
-        </p>
-        <h1 className={styles.title} style={{ color: draft ? "#c0392b" : undefined }}>
-          {displayName ?? stateName}
-        </h1>
       </div>
 
       <div className={styles.overview}>
@@ -151,8 +153,6 @@ export default function StateYearView({
           })}
         </div>
 
-        {children && <div className={styles.narrative}>{children}</div>}
-
         <div className={styles.indicatorList} key={cat}>
           {categoryIndicators.map((indicator, index) => (
             <IndicatorRow
@@ -167,6 +167,13 @@ export default function StateYearView({
             />
           ))}
         </div>
+
+        {children && (
+          <div className={styles.narrative}>
+            <h2 className={styles.indicatorsHeading}>Beschreibung</h2>
+            {children}
+          </div>
+        )}
       </div>
     </div>
   );

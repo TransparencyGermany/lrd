@@ -4,7 +4,8 @@
 }
 
 .inner {
-  max-width: 760px;
+  max-width: var(--content-width);
+  margin: 0 auto;
 }
 
 .badge {
@@ -29,20 +30,6 @@
   line-height: 1.65;
   color: var(--text-body);
   margin: 0 0 28px;
-}
-
-.select {
-  appearance: none;
-  background: var(--color-blue);
-  color: #fff;
-  border: none;
-  padding: 14px 20px;
-  border-radius: var(--radius-card);
-  font-size: 15px;
-  font-weight: 600;
-  font-family: var(--font-sans);
-  cursor: pointer;
-  max-width: 100%;
 }
 
 @media (max-width: 700px) {

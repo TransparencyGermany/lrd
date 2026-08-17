@@ -1,8 +1,14 @@
 .landHeader {
-  padding: 48px 56px 32px;
+  padding: 48px 0 32px;
+  transition: background 0.2s;
+}
+
+.landHeaderInner {
+  max-width: var(--module-width);
+  margin: 0 auto;
+  padding: 0 56px;
   position: relative;
   overflow: hidden;
-  transition: background 0.2s;
 }
 
 .watermark {
@@ -32,6 +38,8 @@
 }
 
 .overview {
+  max-width: var(--module-width);
+  margin: 0 auto;
   padding: 32px 56px 0;
 }
 
@@ -117,6 +125,8 @@
 }
 
 .indicators {
+  max-width: var(--module-width);
+  margin: 0 auto;
   padding: 48px 56px 56px;
 }
 
@@ -131,6 +141,15 @@
   border-bottom: 1px solid var(--border-color);
   margin-bottom: 28px;
   overflow-x: auto;
+  background-image:
+    linear-gradient(to right, var(--surface-card) 30%, rgba(250, 248, 244, 0)),
+    linear-gradient(to left, var(--surface-card) 30%, rgba(250, 248, 244, 0)),
+    radial-gradient(farthest-side at 0% 50%, rgba(43, 37, 35, 0.18), rgba(43, 37, 35, 0)),
+    radial-gradient(farthest-side at 100% 50%, rgba(43, 37, 35, 0.18), rgba(43, 37, 35, 0));
+  background-repeat: no-repeat;
+  background-size: 32px 100%, 32px 100%, 12px 100%, 12px 100%;
+  background-position: 0 0, 100% 0, 0 0, 100% 0;
+  background-attachment: local, local, scroll, scroll;
 }
 
 .tab {
@@ -150,7 +169,7 @@
 }
 
 .narrative {
-  margin-bottom: 28px;
+  margin-top: 28px;
 }
 
 .narrative :global(p) {
@@ -166,7 +185,7 @@
 }
 
 @media (max-width: 700px) {
-  .landHeader,
+  .landHeaderInner,
   .overview,
   .indicators {
     padding-left: 24px;

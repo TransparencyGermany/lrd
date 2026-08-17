@@ -1,13 +1,19 @@
 .footer {
-  padding: 28px 56px;
+  padding: 28px 0;
   background: var(--tint-blue);
+}
+
+.inner {
+  max-width: var(--module-width);
+  margin: 0 auto;
+  padding: 0 56px;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
   gap: 12px;
 }
 
-.footer p {
+.inner p {
   font-size: 12.5px;
   color: var(--text-muted);
   margin: 0;
@@ -16,6 +22,10 @@
 
 @media (max-width: 500px) {
   .footer {
-    padding: 24px;
+    padding: 24px 0;
+  }
+
+  .inner {
+    padding: 0 24px;
   }
 }

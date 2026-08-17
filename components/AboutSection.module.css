@@ -1,6 +1,12 @@
 .section {
-  padding: 72px 56px;
+  padding: 72px 0;
   background: var(--tint-blue);
+}
+
+.inner {
+  max-width: var(--module-width);
+  margin: 0 auto;
+  padding: 0 56px;
 }
 
 .heading {
@@ -23,7 +29,11 @@
 
 @media (max-width: 500px) {
   .section {
-    padding: 48px 24px;
+    padding: 48px 0;
+  }
+
+  .inner {
+    padding: 0 24px;
   }
 
   .grid {

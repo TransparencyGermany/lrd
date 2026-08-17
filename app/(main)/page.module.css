@@ -1,9 +1,10 @@
 .narrative {
-  padding: 8px 56px 48px;
+  padding: 64px 56px 40px;
   display: flex;
   flex-direction: column;
   gap: 28px;
-  max-width: 840px;
+  max-width: var(--content-width);
+  margin: 0 auto;
 }
 
 .narrativeIntro {
@@ -80,7 +81,7 @@
 }
 
 .mapSection {
-  padding: 64px 56px;
+  padding: 64px 56px 40px;
   background: var(--gradient-blue);
   display: flex;
   flex-direction: column;
@@ -95,16 +96,17 @@
 }
 
 .mapInner {
-  max-width: 880px;
+  max-width: var(--module-width);
   width: 100%;
 }
 
 .whySection {
-  padding: 56px 56px;
+  padding: 64px 56px 40px;
   display: flex;
   flex-direction: column;
   gap: 48px;
-  max-width: 900px;
+  max-width: var(--content-width);
+  margin: 0 auto;
 }
 
 .whyIntro {
@@ -129,8 +131,7 @@
   .narrative,
   .mapSection,
   .whySection {
-    padding-left: 24px;
-    padding-right: 24px;
+    padding: 40px 24px 32px;
   }
 
   .kickerGrid,

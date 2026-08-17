@@ -1,11 +1,17 @@
 .header {
-  padding: 24px 56px;
+  padding: 16px 0;
+  background: var(--gradient-blue);
+}
+
+.inner {
+  max-width: var(--module-width);
+  margin: 0 auto;
+  padding: 0 56px;
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 16px;
   flex-wrap: wrap;
-  background: var(--gradient-blue);
 }
 
 .logoLink {
@@ -14,7 +20,7 @@
 }
 
 .logo {
-  height: 40px;
+  height: 52px;
   width: auto;
 }
 
@@ -42,66 +48,13 @@
   color: #fff;
 }
 
-.dropdown {
-  position: relative;
-}
-
-.toggle {
-  font-weight: 600;
-  font-size: 13px;
-  color: var(--color-blue);
-  padding: 8px 14px;
-  background: #fff;
-  border: 0;
-  border-radius: var(--radius-pill);
-  cursor: pointer;
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  font-family: var(--font-sans);
-}
-
-.toggle:focus {
-  outline: none;
-}
-
-.menu {
-  position: absolute;
-  top: 100%;
-  right: 0;
-  z-index: 1000;
-  min-width: 220px;
-  margin-top: 8px;
-  padding: 6px 0;
-  list-style: none;
-  background: #fff;
-  box-shadow: var(--shadow-card);
-  border-radius: var(--radius-card);
-}
-
-.menu li a {
-  display: block;
-  padding: 8px 20px;
-  color: var(--text-body);
-  text-decoration: none;
-  font-family: var(--font-sans);
-  font-size: 14px;
-}
-
-.menu li a:hover {
-  background: var(--surface-hover);
-}
-
-.divider {
-  height: 1px;
-  margin: 5px 0;
-  overflow: hidden;
-  background-color: var(--border-color);
-}
-
 @media (max-width: 700px) {
   .header {
-    padding: 16px 24px;
+    padding: 16px 0;
+  }
+
+  .inner {
+    padding: 0 24px;
   }
 
   .right {
@@ -114,7 +67,7 @@
 }
 
 @media (max-width: 460px) {
-  .header {
+  .inner {
     justify-content: center;
     text-align: center;
   }

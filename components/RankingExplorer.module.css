@@ -1,11 +1,14 @@
 .explorer {
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 .tabs {
-  padding: 0 56px;
+  width: 100%;
+  max-width: var(--module-width);
   margin-top: 24px;
+  padding: 0 56px;
   display: flex;
   gap: 32px;
   border-bottom: 1px solid var(--border-color);
@@ -29,8 +32,10 @@
 }
 
 .description {
-  margin: 24px 56px 0;
-  padding: 20px 24px;
+  width: 100%;
+  max-width: var(--module-width);
+  margin-top: 24px;
+  padding: 20px 80px;
   border-radius: var(--radius-card);
 }
 
@@ -42,6 +47,8 @@
 }
 
 .chartHeader {
+  width: 100%;
+  max-width: var(--module-width);
   padding: 32px 56px 0;
   display: flex;
   align-items: center;
@@ -60,6 +67,8 @@
 }
 
 .rows {
+  width: 100%;
+  max-width: var(--module-width);
   padding: 24px 56px 0;
   display: flex;
   flex-direction: column;
@@ -105,6 +114,8 @@
 }
 
 .actions {
+  width: 100%;
+  max-width: var(--module-width);
   padding: 24px 56px 32px;
   display: flex;
   gap: 12px;
@@ -132,7 +143,6 @@
 
 @media (max-width: 700px) {
   .tabs,
-  .description,
   .chartHeader,
   .rows,
   .actions {
@@ -141,8 +151,8 @@
   }
 
   .description {
-    margin-left: 24px;
-    margin-right: 24px;
+    padding-left: 48px;
+    padding-right: 48px;
   }
 
   .row {
