@@ -11,5 +11,5 @@ status: complete
 
 In Sachsen gibt es inzwischen [Karenzzeiten](https://www.revosax.sachsen.de/vorschrift/3172-Saechsisches-Ministergesetz#p4a) (12 Monate).
 
-Die [Verhaltensregeln](https://www.revosax.sachsen.de/vorschrift/9477-Abgeordnetengesetz#p4c) hinterlassen einen schwachen Eindruck. Die vor der Mandatsübernahme seitens der MdL ausgeübten Tätigkeiten sind nicht anzuzeigen. Bezüglich der Anzeige der erzielten Nebeneinkünfte lehnen sich die Verhaltensregeln nur an das ehemalige 10-Stufen-Modell des Bundes an. Auch gibt es keine Veröffentlichung verhängter Sanktionen.
+Die [Verhaltensregeln](https://www.revosax.sachsen.de/vorschrift/9477-Abgeordnetengesetz#p4e) wurden erfreulicherweise verschärft, dennoch besteht noch Verbesserungspotenzial. Bezüglich der Anzeige der erzielten Nebeneinkünfte lehnen sich die Verhaltensregeln nur an die ehemaligen Verhaltensregeln des Bundes an (lediglich 10-Stufen-Regelung).
 
