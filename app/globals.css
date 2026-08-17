@@ -2,7 +2,6 @@
 
 :root {
   --font-sans: Inter, sans-serif;
-  --font-serif: "Source Serif 4", serif;
 
   /* brand */
   --color-blue: #3795d9;
@@ -75,7 +74,7 @@ img {
 h1,
 h2,
 h3 {
-  font-family: var(--font-serif);
+  font-family: var(--font-sans);
   color: var(--text-heading);
   font-weight: 600;
   margin: 0 0 20px;

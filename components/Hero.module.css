@@ -21,7 +21,9 @@
 
 .heading {
   font-size: 52px;
+  font-weight: 800;
   line-height: 1.08;
+  letter-spacing: -0.01em;
   margin: 0 0 20px;
 }
 

@@ -4,7 +4,7 @@ import "@/app/globals.css";
 import AboutSection from "@/components/AboutSection";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import { inter, sourceSerif4 } from "@/lib/fonts";
+import { inter } from "@/lib/fonts";
 import { getAllStates } from "@/lib/states";
 import { SITE_URL } from "@/lib/constants";
 import styles from "./layout.module.css";
@@ -36,7 +36,7 @@ export default function MainLayout({ children }: { children: ReactNode }) {
   const states = getAllStates();
 
   return (
-    <html lang="de" className={`${inter.variable} ${sourceSerif4.variable}`}>
+    <html lang="de" className={inter.variable}>
       <body>
         <div className={styles.canvas}>
           <div className={styles.card}>
