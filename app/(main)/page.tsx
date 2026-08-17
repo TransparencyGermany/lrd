@@ -42,47 +42,51 @@ export default function HomePage() {
         <p className={styles.narrativeIntro}>
           Sowohl im Bund als auch in einigen Ländern haben sich in den vergangenen Jahren – auch
           ausgelöst durch Skandale wie die Aserbaidschanaffäre, den Maskenskandal, Wirecard und
-          Cum-Ex – die Transparenz- und Integritätsregeln spürbar verbessert. Im Lobbyranking 2024
-          haben sich 12 der 16 Bundesländer gegenüber dem Lobbyranking 2022 leicht verbessert.
+          Cum-Ex – die Transparenz- und Integritätsregeln spürbar verbessert. Im Lobbyranking 2026 
+          haben 12 der 16 Bundesländer gegenüber 2024 ihre Transparenz- und Integritätsregeln verbessert 
+          – überwiegend jedoch nur in kleinen Schritten.
         </p>
         <div className={styles.kickerGrid}>
           <div>
             <h3 className={styles.kicker}>Große Lücken bleiben</h3>
             <p className={styles.kickerBody}>
-              Dennoch erreichen 13 Bundesländer auch im Lobbyranking 2024 nicht einmal die Hälfte
+              Wie schon im Jahre 2024 erreichen 13 Bundesländer auch im Lobbyranking 2026 nicht einmal die Hälfte
               der möglichen Transparency-Kriterien. Die Spanne zwischen dem besten Bundesland
-              Thüringen (69 % der erreichbaren Punkte) und am schwächsten abschneidenden
-              Bundesland Bremen (9 % der erreichbaren Punkte) ist enorm. Ein Großteil der
-              Bundesländer bietet damit noch immer zu wenig Nachvollziehbarkeit von politischen
+              Bayern (59 % der erreichbaren Punkte) und am schwächsten abschneidenden
+              Bundesland Bremen (9 % der erreichbaren Punkte) ist enorm. Trotz einzelner Verbesserungen bei den Verhaltensregeln
+              bietet ein Großteil der Bundesländer noch immer zu wenig Nachvollziehbarkeit von politischen
               Entscheidungen für die Bürgerinnen und Bürger und zu viele Möglichkeiten für
               potenzielle illegitime Lobby-Einflussnahme.
             </p>
           </div>
           <div>
-            <h3 className={styles.kicker}>Spitze baut Vorsprung aus</h3>
+            <h3 className={styles.kicker}>Wechsel an der Spitze</h3>
             <p className={styles.kickerBody}>
-              Thüringen, das 69% der Kriterien erfüllt, konnte dank des im Juni 2024 vorgelegten
-              Lobbyregisters seinen Spitzenplatz im Ranking souverän behaupten. Auf den folgenden
-              Plätzen vergrößern Bayern (54%) und Baden-Württemberg (53%) dank neuer
-              Karenzzeitregeln ihren Abstand zum Mittelfeld. In der Gesamtschau schneidet der Bund
-              dank mittlerweile insgesamt recht guter Lobby- und Transparenzregeln mit 71% besser
-              ab als alle Bundesländer.
+              Baden-Württemberg übernimmt mit 55 % der erfüllten Kriterien die Spitzenposition 
+              im Lobbyranking 2026. Bayern (54 %) verteidigt den zweiten Platz und baut seinen 
+              Vorsprung auf das Mittelfeld weiter aus. Thüringen fällt aufgrund der anhaltenden 
+              Vollzugsdefizite bei Lobbyregister und legislativem Fußabdruck trotz seiner auf 
+              dem Papier weiterhin vorbildlichen Regelungen auf Platz 4 zurück. In der Gesamtschau 
+              schneidet der Bund dank seiner Lobby- und Transparenzregeln mit 71 % 
+              weiterhin besser ab als alle Bundesländer.
             </p>
           </div>
           <div>
             <h3 className={styles.kicker}>Bewegung im Mittelfeld</h3>
             <p className={styles.kickerBody}>
-              In der unteren Hälfte steigt Sachsen (24%) durch die Einführung von Karenzzeiten für
-              ausscheidende Regierungsmitglieder um fünf Plätze auf und landet auf Platz 10 des
-              Lobbyrankings 2024.
+              Rheinland-Pfalz verbessert sich durch strengere Karenzzeitregelungen sowie überarbeitete 
+              Verhaltensregeln für Abgeordnete und steigt im Lobbyranking 2026 auf Platz 9. Hessen, Berlin 
+              und Sachsen fallen dagegen im Ranking zurück, da sie im Vergleich zu anderen Ländern zuletzt 
+              kaum Fortschritte bei Lobbytransparenz und Integritätsregeln erzielt haben.
             </p>
           </div>
           <div>
             <h3 className={styles.kicker}>Rote Laterne für Bremen</h3>
             <p className={styles.kickerBody}>
-              Andererseits verlieren Rheinland-Pfalz (19%), Niedersachsen (19%) und
-              Sachsen-Anhalt (18%) aufgrund von Inaktivität vier bzw. drei Plätze und befinden
-              sich auf den Rängen 13, 14 sowie 15. Die „rote Laterne“ behält Bremen (9%).
+              An den hinteren Plätzen gibt es dagegen kaum Veränderungen. 
+              Trotz leichter Verbesserungen bei den Verhaltensregeln bleiben Niedersachsen 
+              und Sachsen-Anhalt im unteren Tabellenbereich. Bremen bildet mit 9 % der erfüllten 
+              Kriterien weiterhin das Schlusslicht des Lobbyrankings.
             </p>
           </div>
         </div>
