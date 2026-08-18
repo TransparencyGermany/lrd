@@ -66,7 +66,9 @@ export default function HomePage() {
               im Lobbyranking 2026. Bayern (54 %) verteidigt den zweiten Platz und baut seinen 
               Vorsprung auf das Mittelfeld weiter aus. Thüringen fällt aufgrund der anhaltenden 
               Vollzugsdefizite bei Lobbyregister und legislativem Fußabdruck trotz seiner auf 
-              dem Papier weiterhin vorbildlichen Regelungen auf Platz 4 zurück. In der Gesamtschau 
+              dem Papier weiterhin vorbildlichen Regelungen auf Platz 4 zurück. Newcomer ist Hamburg, 
+              das mit seinem neu verabschiedeten Lobbyregister, das auch Elemente eines legislativen 
+              Fußabdrucks enthält, direkt in die Spitzengruppe aufrückt. In der Gesamtschau 
               schneidet der Bund dank seiner Lobby- und Transparenzregeln mit 71 % 
               weiterhin besser ab als alle Bundesländer.
             </p>
