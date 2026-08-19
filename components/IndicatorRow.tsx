@@ -38,6 +38,7 @@ export default function IndicatorRow({ indicator, color, tint, open, onToggle }:
             </p>
             <p className={styles.text}>{indicator.hintergrund}</p>
           </div>
+          {/* Ergebnis text hidden for now — re-enable by uncommenting this block.
           {indicator.erklaerung && (
             <div>
               <p className={styles.label} style={{ color }}>
@@ -46,6 +47,7 @@ export default function IndicatorRow({ indicator, color, tint, open, onToggle }:
               <p className={styles.text}>{indicator.erklaerung}</p>
             </div>
           )}
+          */}
         </div>
       )}
     </div>
