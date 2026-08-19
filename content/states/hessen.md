@@ -13,7 +13,9 @@ layout: state
 status: complete
 ---
 
-Das sogenannte Lobbyregister des Landtages in Hessen kann nicht als solches angesehen werden. Es handelt sich um ein Verzeichnis ohne konkretere Angaben über Interessen und Mittel von Lobbyisten, ohne Regeln zur Interessenvertretung und Auslassung einer Vielzahl an Lobbyisten. Ein Fußabdruck existiert nicht.
+Das sogenannte Lobbyregister des Landtages in Hessen kann nicht als solches angesehen werden. Es handelt sich um ein Verzeichnis ohne konkretere Angaben über Interessen und Mittel von Lobbyist:innen, ohne Regeln zur Interessenvertretung und Auslassung einer Vielzahl an Lobbyisten. Ein Fußabdruck existiert nicht.
+
+Im Jahr 2015 wurde in Hessen das Gesetz über die Bezüge der Mitglieder der Landesregierung geändert und eine Karenzzeitregelung eingeführt.
 
 Die [hessischen Verhaltensregeln](https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-NNLHE000050ED) lehnen sich stark an jene des Bundes an. Die Offenlegungspflicht bezüglich einer Interessenskollision bei der gesetzgeberischen Arbeit ist noch optimierbar. Des Weiteren gibt es kein Verbot von Direktspenden sowie von Lobbytätigkeit.
 

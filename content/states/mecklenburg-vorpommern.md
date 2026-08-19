@@ -13,7 +13,9 @@ layout: state
 status: complete
 ---
 
-Der Landtag in Mecklenburg-Vorpommern führt eine reine Verbändeliste anstelle eines Lobbyregisters – ohne konkretere Angaben über Interessen und Mittel von Lobbyisten, ohne Regeln zur Interessenvertretung und Auslassung einer Vielzahl an Lobbyisten. Ein Fußabdruck existiert nicht.
+Der Landtag in Mecklenburg-Vorpommern führt eine reine Verbändeliste anstelle eines Lobbyregisters – ohne konkretere Angaben über Interessen und Mittel von Lobbyist:innen, ohne Regeln zur Interessenvertretung und Auslassung einer Vielzahl an Lobbyist:innen. Ein Fußabdruck existiert nicht.
+
+Die Landesregierung hat 2021 Karenzeitregelungen verabschiedet. Die Karenzzeit ist dabei jedoch auf 12 Monate begrenzt, auch sind bei Verstößen keine Sanktionen vorgesehen.
 
 Die [Regelungen des Abgeordnetengesetzes](https://www.landesrecht-mv.de/bsmv/document/jlr-NNLMV000071F7) haben insbesondere Mängel beim Verbot von Lobbyarbeit und der Annahme von Direktspenden.  Insbesondere fehlen Sanktionsmöglichkeit bei Pflichtverstößen.
 

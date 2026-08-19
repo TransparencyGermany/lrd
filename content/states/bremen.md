@@ -13,6 +13,6 @@ layout: state
 status: complete
 ---
 
-In Bremen gibt es für die Senatsmitglieder keine Karenzzeitregelung. 
+In Bremen gibt es für die Senatsmitglieder keine Karenzzeitregelung. Zudem existiert weder ein Fußabdruck noch ein Lobbyregister.
 
 Die [Verhaltensregeln](https://www.bremische-buergerschaft.de/index.php?id=138#c2948) weisen erhebliche Mängel auf. Es existiert keine Pflicht der Angabe der vor  Mandatsantritt ausgeübten Tätigkeiten, keine Herstellung von Transparenz bei der Ausschussarbeit, keine Sanktionsmöglichkeiten bei Pflichtverstößen.

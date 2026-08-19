@@ -13,9 +13,9 @@ layout: state
 status: complete
 
 ---
-Das Bundesland verfügt über eine Regelung für Karenzzeiten von Ministern. Diese ist identisch zu Regelung auf Bundesebene und sieht im Regelfall eine Wartezeit von 12 Monaten, in Ausnahmefällen bis 18 Monaten vor.
+Das Bundesland verfügt über eine Regelung für Karenzzeiten von Ministern. Diese ist identisch zu der Regelung auf Bundesebene und sieht im Regelfall eine Wartezeit von 12 Monaten, in Ausnahmefällen bis 18 Monaten vor.
 
-Das sogenannte Lobbyregister des Landtages in Rheinland-Pfalz kann nicht als solches angesehen werden. Es handelt sich um eine reine Verbändeliste, ohne konkretere Angaben über Interessen und Mittel von Lobbyisten, ohne Regeln zur Interessenvertretung und Auslassung einer Vielzahl an Lobbyisten. Ein Fußabdruck existiert nicht.
+Das sogenannte Lobbyregister des Landtages in Rheinland-Pfalz kann nicht als solches angesehen werden. Es handelt sich um eine reine Verbändeliste, ohne konkretere Angaben über Interessen und Mittel von Lobbyist:innen, ohne Regeln zur Interessenvertretung und Auslassung einer Vielzahl an Lobbyist:innen. Ein Fußabdruck existiert nicht.
 
 Die [Verhaltensregeln von Rheinland-Pfalz](https://landesrecht.rlp.de/bsrp/document/jlr-NNLRP00005A32NN00000000010) weisen einen durchschnittlichen Standard auf, mit der einen allerdings gravierenden Ausnahme, dass die erhaltenen [Spenden](https://landtag-rlp.de/files/pdf1/vorlaeufige-geschaeftsordnung-des-landtags-rheinland-pfalz-golt.pdf) lediglich angezeigt werden müssen.
 

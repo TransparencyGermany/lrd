@@ -13,7 +13,9 @@ status: complete
 
 ---
 
-Das sogenannte Lobbyregister des Landtages in Sachsen-Anhalt kann nicht als solches angesehen werden. Es handelt sich um eine reine Verbändeliste, ohne konkretere Angaben über Interessen und Mittel von Lobbyisten, ohne Regeln zur Interessenvertretung und Auslassung einer Vielzahl an Lobbyisten. Ein Fußabdruck existiert nicht.
+Das sogenannte Lobbyregister des Landtages in Sachsen-Anhalt kann nicht als solches angesehen werden. Es handelt sich um eine reine Verbändeliste, ohne konkretere Angaben über Interessen und Mittel von Lobbyist:innen, ohne Regeln zur Interessenvertretung und Auslassung einer Vielzahl an Lobbyist:innen. Ein Fußabdruck existiert nicht.
+
+In Sachsen-Anhalt gibt es nach wie vor keine Regelungen zu Karenzzeiten. Bereits 2014 wurde ein Antrag zur entsprechenden Änderung des Ministergesetzes vom Landtag mit der Begründung abgelehnt, dass man die Karenzzeitenregelung auf Bundesebene abwarten wolle. Diese gibt es inzwischen seit 2015.
 
 Die [Verhaltensregeln](https://www.landtag.sachsen-anhalt.de/fileadmin/Downloads/Verhaltensregeln/2021_Verhaltensregeln.pdf) bleiben hinsichtlich der Pflicht zur Anzeige der vor der [Mandatsübernahme ausgeübten Tätigkeiten](https://www.landtag.sachsen-anhalt.de/fileadmin/Downloads/Rechtsgrundlagen/Gesetze_8.WP/20240607_Abgeordnetengesetz_AbgG2_Online.pdf?utm_source=chatgpt.com) (nur wenn weniger als zwei Jahre zurückliegend), wie auch hinsichtlich der Offenlegung der erzielten Nebeneinkünfte (nur 6-Stufen-Regelung) hinter den Anforderungen zurück. Kein Verbot von Direktspenden und der Ausübung von Lobbyarbeit
 
