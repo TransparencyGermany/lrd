@@ -43,21 +43,21 @@ export function getOverviewForState(
   return categories;
 }
 
-// Ported from BarchartCtrl.loadOverview: sort ascending by (name !== 'Bund', sum),
-// then reverse — the net effect is states ranked highest-to-lowest score, with Bund
-// appended last regardless of its own score.
+// States ranked highest-to-lowest score, with Bund appended last regardless of its
+// own score, and ties broken alphabetically (A–Z).
 export function getRankedStateNames(data: RankingData): string[] {
-  const entries = Object.keys(data.states)
-    .sort()
-    .map((name) => ({ name, sum: getTotalFor(data, name) }));
+  const entries = Object.keys(data.states).map((name) => ({
+    name,
+    sum: getTotalFor(data, name),
+  }));
 
   entries.sort((a, b) => {
     const aKey = a.name !== BUND_NAME ? 1 : 0;
     const bKey = b.name !== BUND_NAME ? 1 : 0;
-    if (aKey !== bKey) return aKey - bKey;
-    return a.sum - b.sum;
+    if (aKey !== bKey) return bKey - aKey;
+    if (a.sum !== b.sum) return b.sum - a.sum;
+    return a.name.localeCompare(b.name, "de");
   });
-  entries.reverse();
 
   return entries.map((e) => e.name);
 }
