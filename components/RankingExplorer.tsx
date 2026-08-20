@@ -21,19 +21,21 @@ type RankingExplorerProps = {
 };
 
 function buildRankingSvg(view: RankingView): string {
-  const rowHeight = 28;
+  const rowHeight = 30;
   const width = 660;
   const height = view.data.length * rowHeight + 20;
   const color = Array.isArray(view.color) ? view.color[0] : view.color;
   const rows = view.data
     .map((d, i) => {
       const y = i * rowHeight + 10;
-      const barWidth = (d.value / 100) * 380;
+      const barWidth = (d.value / 100) * 300;
+      const rank = d.name === BUND_NAME ? "—" : `${i + 1}.`;
       return (
-        `<text x="10" y="${y + 14}" font-family="Inter,sans-serif" font-size="12" fill="#2B2523">${d.name}</text>` +
-        `<rect x="200" y="${y}" width="380" height="14" rx="7" fill="#EDE8DF"/>` +
-        `<rect x="200" y="${y}" width="${barWidth}" height="14" rx="7" fill="${color}"/>` +
-        `<text x="650" y="${y + 14}" font-family="Inter,sans-serif" font-size="12" fill="#5A5450" text-anchor="end">${d.value}%</text>`
+        `<text x="25" y="${y + 14}" font-family="Inter,sans-serif" font-size="12" font-weight="700" fill="#8A837D" text-anchor="end">${rank}</text>` +
+        `<text x="35" y="${y + 14}" font-family="Inter,sans-serif" font-size="15" fill="#2B2523">${d.name}</text>` +
+        `<rect x="280" y="${y}" width="300" height="14" rx="7" fill="#EDE8DF"/>` +
+        `<rect x="280" y="${y}" width="${barWidth}" height="14" rx="7" fill="${color}"/>` +
+        `<text x="650" y="${y + 14}" font-family="Inter,sans-serif" font-size="14" fill="#5A5450" text-anchor="end">${d.value}%</text>`
       );
     })
     .join("");

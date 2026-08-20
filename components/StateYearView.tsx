@@ -12,7 +12,7 @@ import {
   DEFAULT_YEAR,
   OVERVIEW_COLOR,
 } from "@/lib/constants";
-import type { CategoryName, StateYearData, Year } from "@/lib/types";
+import type { CategoryOverview, CategoryName, StateYearData, Year } from "@/lib/types";
 import styles from "./StateYearView.module.css";
 
 type StateYearViewProps = {
@@ -22,6 +22,55 @@ type StateYearViewProps = {
   dataByYear: Record<Year, StateYearData>;
   children?: ReactNode;
 };
+
+// Mirrors RankingExplorer's buildRankingSvg: Gesamt + one row per category, no
+// "active tab" shading — the export always shows every row in its neutral state.
+function buildStateSvg(gesamtPoints: number, overview: Record<string, CategoryOverview>): string {
+  const rows = [
+    { name: "Gesamt", value: gesamtPoints, color: OVERVIEW_COLOR, bold: true },
+    ...CATEGORY_ORDER.map((category) => {
+      const c = overview[category];
+      return {
+        name: category,
+        value: c.max > 0 ? Math.round((c.points / c.max) * 100) : 0,
+        color: CATEGORY_COLORS[category],
+        bold: false,
+      };
+    }),
+  ];
+
+  const rowHeight = 34;
+  const width = 660;
+  const height = rows.length * rowHeight + 20;
+  const barX = 330;
+  const barWidthMax = 250;
+  const svgRows = rows
+    .map((r, i) => {
+      const y = i * rowHeight + 10;
+      const barWidth = (r.value / 100) * barWidthMax;
+      return (
+        `<text x="10" y="${y + 15}" font-family="Inter,sans-serif" font-size="15" font-weight="${r.bold ? 700 : 400}" fill="#2B2523">${r.name}</text>` +
+        `<rect x="${barX}" y="${y}" width="${barWidthMax}" height="14" rx="7" fill="#EDE8DF"/>` +
+        `<rect x="${barX}" y="${y}" width="${barWidth}" height="14" rx="7" fill="${r.color}"/>` +
+        `<text x="650" y="${y + 15}" font-family="Inter,sans-serif" font-size="14" fill="#5A5450" text-anchor="end">${r.value}%</text>`
+      );
+    })
+    .join("");
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}">${svgRows}</svg>`;
+}
+
+function downloadStateSvg(stateName: string, year: Year, gesamtPoints: number, overview: Record<string, CategoryOverview>) {
+  const svg = buildStateSvg(gesamtPoints, overview);
+  const blob = new Blob([svg], { type: "image/svg+xml" });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = `lobbyranking-${stateName.toLowerCase().replace(/\s+/g, "-")}-${year}.svg`;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+}
 
 function scrollToIndicators() {
   setTimeout(() => {
@@ -124,6 +173,19 @@ export default function StateYearView({
               </button>
             );
           })}
+        </div>
+
+        <div className={styles.actions}>
+          <button
+            type="button"
+            className={styles.actionButton}
+            onClick={() => downloadStateSvg(stateName, year, gesamt.points, overview)}
+          >
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+              <path d="M12 3v12m0 0-4-4m4 4 4-4M4 21h16" />
+            </svg>
+            SVG herunterladen
+          </button>
         </div>
       </div>
 

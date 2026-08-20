@@ -126,6 +126,32 @@
   text-align: right;
 }
 
+.actions {
+  margin-top: 24px;
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.actionButton {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 9px 16px;
+  border: 1.5px solid var(--color-blue);
+  border-radius: var(--radius-card);
+  background: #fff;
+  color: var(--color-blue);
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+  font-family: var(--font-sans);
+}
+
+.actionButton:hover {
+  background: var(--tint-blue);
+}
+
 .indicators {
   max-width: var(--module-width);
   margin: 0 auto;
