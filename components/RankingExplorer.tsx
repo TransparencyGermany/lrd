@@ -22,7 +22,7 @@ type RankingExplorerProps = {
 
 function buildRankingSvg(view: RankingView): string {
   const rowHeight = 28;
-  const width = 640;
+  const width = 660;
   const height = view.data.length * rowHeight + 20;
   const color = Array.isArray(view.color) ? view.color[0] : view.color;
   const rows = view.data
@@ -30,14 +30,14 @@ function buildRankingSvg(view: RankingView): string {
       const y = i * rowHeight + 10;
       const barWidth = (d.value / 100) * 380;
       return (
-        `<text x="0" y="${y + 14}" font-family="Inter,sans-serif" font-size="12" fill="#2B2523">${d.name}</text>` +
+        `<text x="10" y="${y + 14}" font-family="Inter,sans-serif" font-size="12" fill="#2B2523">${d.name}</text>` +
         `<rect x="200" y="${y}" width="380" height="14" rx="7" fill="#EDE8DF"/>` +
         `<rect x="200" y="${y}" width="${barWidth}" height="14" rx="7" fill="${color}"/>` +
-        `<text x="590" y="${y + 14}" font-family="Inter,sans-serif" font-size="12" fill="#5A5450" text-anchor="end">${d.value}%</text>`
+        `<text x="650" y="${y + 14}" font-family="Inter,sans-serif" font-size="12" fill="#5A5450" text-anchor="end">${d.value}%</text>`
       );
     })
     .join("");
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}"><rect width="100%" height="100%" fill="#FAF8F4"/>${rows}</svg>`;
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}">${rows}</svg>`;
 }
 
 function downloadSvg(view: RankingView, year: Year) {
