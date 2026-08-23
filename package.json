@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "description": "lobbyranking.de – Lobbyranking der Bundesländer, ein Projekt von Transparency Deutschland",
+  "engines": {
+    "node": ">=20.9.0"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
