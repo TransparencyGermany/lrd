@@ -17,7 +17,7 @@ Trotz des Namens Lobbyregister ist die Berliner Regelung v.a. ein Fußabdruck. D
 
 Im Koalitionsvertrag 2023 – 2026 der rot-schwarzen Koalition ist eine Regelung zur Karenzzeit von Senator:innen  (im Gegensatz zum vorhergegangen Koalitionsvertrag) nicht mehr vorgesehen. Es liegt lediglich ein Gesetzentwurf der Opposition vom Mai 2023 vor.
 
-Die [Berliner Verhaltensregeln](https://gesetze.berlin.de/bsbe/document/jlr-NNLBE00004887NN00000000008) des Abgeordnetengesetzes enthalten trotz einer seit langem angekündigten Änderung immer noch erhebliche Lücken. Unzureichend geregelt sind die Anzeigepflicht bezüglich den vor der Mandatsübernahme ausgeübten Tätigkeiten sowie der Angabe der Höhe der Nebeneinkünfte der Abgeordneten. Vor allem fehlt eine Möglichkeit, Sanktionen (Ordnungsgelder!) zu verhängen.
+Die [Berliner Verhaltensregeln](https://gesetze.berlin.de/bsbe/document/jlr-NNLBE00004887NN00000000008) des Abgeordnetengesetzes enthalten trotz einer seit langem angekündigten Änderung immer noch erhebliche Lücken. Unzureichend geregelt sind die Anzeigepflicht bezüglich den vor der Mandatsübernahme ausgeübten Tätigkeiten sowie der Angabe der Höhe der Nebeneinkünfte der Abgeordneten. Vor allem fehlt eine Möglichkeit, Sanktionen, in Form von Ordnungsgeldern, zu verhängen.
 
 <!-- Im Koalitionsvertrag 2023 – 2026 der rot-schwarzen Koalition ist eine Regelung zur Karenzzeit von Senatorinnen und Senatoren (im Gegensatz zum vorhergegangen Koalitionsvertrag) nicht mehr vorgesehen. Es liegt lediglich ein Gesetzentwurf der Opposition vom Mai 2023 vor. 
 
