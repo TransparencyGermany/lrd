@@ -51,9 +51,9 @@ export default function HomePage() {
             <h3 className={styles.kicker}>Große Lücken bleiben</h3>
             <p className={styles.kickerBody}>
               Wie schon im Jahre 2024 erreichen 13 Bundesländer auch im Lobbyranking 2026 nicht einmal die Hälfte
-              der möglichen Transparency-Kriterien. Die Spanne zwischen dem besten Bundesland
+              der möglichen Integritätskriterien. Die Spanne zwischen dem besten Bundesland
               Bayern (59 % der erreichbaren Punkte) und am schwächsten abschneidenden
-              Bundesland Bremen (9 % der erreichbaren Punkte) ist enorm. Trotz einzelner Verbesserungen bei den Verhaltensregeln
+              Bundesland Bremen (15 % der erreichbaren Punkte) ist enorm. Trotz einzelner Verbesserungen bei den Verhaltensregeln
               bietet ein Großteil der Bundesländer noch immer zu wenig Nachvollziehbarkeit von politischen
               Entscheidungen für die Bürgerinnen und Bürger und zu viele Möglichkeiten für
               potenzielle illegitime Lobby-Einflussnahme.
@@ -69,7 +69,7 @@ export default function HomePage() {
               dem Papier weiterhin vorbildlichen Regelungen auf Platz 4 zurück. Newcomer ist Hamburg, 
               das mit seinem neu verabschiedeten Lobbyregister, das auch Elemente eines legislativen 
               Fußabdrucks enthält, direkt in die Spitzengruppe aufrückt. In der Gesamtschau 
-              schneidet der Bund dank seiner Lobby- und Transparenzregeln mit 71 % 
+              schneidet der Bund dank seiner Lobby- und Transparenzregeln mit 73 % 
               weiterhin besser ab als alle Bundesländer - auch wenn insbesondere beim exekutiven Fußabdruck
               Vollzugsdefizite bestehen bleiben.
             </p>
@@ -88,7 +88,7 @@ export default function HomePage() {
             <p className={styles.kickerBody}>
               An den hinteren Plätzen gibt es dagegen kaum Veränderungen. 
               Trotz leichter Verbesserungen bei den Verhaltensregeln bleiben Niedersachsen 
-              und Sachsen-Anhalt im unteren Tabellenbereich. Bremen bildet mit 9 % der erfüllten 
+              und Sachsen-Anhalt im unteren Tabellenbereich. Bremen bildet mit 15 % der erfüllten 
               Kriterien weiterhin das Schlusslicht des Lobbyrankings.
             </p>
           </div>
@@ -152,7 +152,8 @@ export default function HomePage() {
                 Seit der Erstveröffentlichung am 11. März 2021 aktualisiert Transparency Deutschland das
                  Lobbyranking regelmäßig, um die Entwicklungen der Transparenz- und Integritätsregeln in
                   den Bundesländern nachzuverfolgen und sichtbar zu machen. Die bisherigen Aktualisierungen
-                   erfolgten am 10. März 2022 sowie am 13. August 2024.
+                   erfolgten am 10. März 2022 sowie am 13. August 2024. Letztmals aktualisiert haben wir 
+                   die Daten am 25. August 2026.
               </p>
             </div>
           </div>

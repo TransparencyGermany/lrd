@@ -20,9 +20,9 @@ export default function AboutSection() {
           <div>
             <h3 className={styles.colHeading}>Downloads</h3>
             <div className={styles.downloads}>
-              <a href="/files/Broschu__re_Lobbyranking_2203_01_gelayoutet.pdf">
+              <a href="/files/Lobbyranking_2026_Pressemappe.pdf">
                 <DownloadIcon />
-                Die Ranking Broschüre
+                Die Pressemappe 2026
               </a>
               <a href="/files/lobbyranking_2026.xlsx">
                 <DownloadIcon />

@@ -15,7 +15,7 @@ status: complete
 
 Das Lobbyregister ist relativ niederschwellig formuliert, mit überschaubaren Ausnahmen bei den Interessenvertreter:innen. Der Registrierungsanlass in Bezug auf die Exekutive betrifft allerdings nur den Kontakt zu den Minister:innen – das spart den Großteil der Lobbyarbeit aus. Wie auch bei den anderen Regeln
 zur Interessenvertretung in Deutschland erfolgt keine Offenlegung konkreter Lobbykontakte der Regierung. Der Fußabdruck ist vergleichbar der Bundesregelung in einer Verwaltungsvorschrift der Landesregierung geregelt. Auf dem Papier ist dieser Dank Verzicht auf eine Wesentlichkeitsschwelle etwas weitgehender als die Bundesregel - lässt aber mangels Details ebenso viel Auslegungsspielraum.
-Zwar soll der konkrete Einfluss von Interessenvertreter:innen auf die Erarbeitung Gesetze und Verordnungen erklärt werden. Wie um Bund ist existiert allerdings ein erhebliches Vollzugsdefizit.
+Zwar soll der konkrete Einfluss von Interessenvertreter:innen auf die Erarbeitung Gesetze und Verordnungen erklärt werden. Wie im Bund existiert allerdings ein erhebliches Vollzugsdefizit.
 
 Die früheren Offenlegungsregeln wurden – dem allgemeinen Sprachgebrauch entsprechend – in [Verhaltensregeln](https://www.landtag-bw.de/resource/blob/585978/071e4d84229d553bbc77b365de6b7d1e/GBl2025075.pdf) umbenannt. Erfreulicherweise wurden sie deutlich schärfer gefasst. Sie gelten seit April 2026.
 
